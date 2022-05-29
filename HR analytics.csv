@@ -1,0 +1,2130 @@
+Employee_1D,city,gender,HR Analytics,University Grade,education_level,Has HR expereince,experience,Job changes,Training hours,company_size,Get HR Analytics Job? 
+102238,city_41,Male,Has relevent experience,Grade 2,Graduate,Yes,9,1,98,<10,No
+102304,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,5,1,8,,Yes
+102391,city_21,Male,No relevent experience,Grade 1,High School,Yes,<1,never,86,,Yes
+102452,city_13,Male,Has relevent experience,Grade 2,Masters,Yes,11,1,69,1-10,Yes
+102508,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,97,10000+,Yes
+102596,city_23,Male,No relevent experience,Grade 2,Masters,Yes,10,2,51,,Yes
+102618,city_21,,Has relevent experience,Grade 3,Graduate,Yes,<1,1,114,100-500,Yes
+102678,city_160,Female,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,67,,Yes
+102702,city_173,Male,Has relevent experience,Grade 2,Graduate,Yes,14,4,105,,Yes
+102730,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,1,50-99,Yes
+102762,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,0,,No
+102856,city_90,Male,Has relevent experience,Grade 3,Graduate,Yes,20,2,109,1-10,Yes
+102857,city_46,Male,Has relevent experience,Grade 3,Graduate,Yes,8,never,79,100-500,Yes
+102862,city_98,,Has relevent experience,Grade 3,Masters,Yes,4,1,148,100-500,Yes
+102911,city_103,,No relevent experience,Grade 3,Graduate,Yes,5,never,5,,Yes
+103008,city_21,,Has relevent experience,Grade 1,Graduate,Yes,13,1,121,1000-4999,Yes
+103012,city_21,Male,Has relevent experience,Grade 3,Masters,Yes,4,1,39,100-500,Yes
+103038,city_13,Male,Has relevent experience,Grade 3,Masters,Yes,2,1,23,50-99,No
+103077,city_21,,Has relevent experience,Grade 3,Graduate,Yes,6,4,120,,Yes
+103172,city_21,Male,No relevent experience,Grade 3,,Yes,2,never,90,,Yes
+103215,city_103,,No relevent experience,Grade 3,Graduate,Yes,2,never,82,,No
+103256,city_103,,Has relevent experience,Grade 1,Graduate,Yes,7,1,135,10000+,Yes
+103315,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,6,3,59,1000-4999,Yes
+103389,city_103,Male,No relevent experience,Grade 3,Graduate,No,1,1,150,,Yes
+103440,city_118,Male,Has relevent experience,Grade 3,Graduate,No,19,>4,70,100-500,No
+103489,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,15,>4,21,,Yes
+103522,city_114,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,10,50-99,Yes
+103560,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,6,1,99,,No
+103623,city_134,,Has relevent experience,Grade 3,Masters,Yes,16,1,89,,Yes
+103710,city_21,,Has relevent experience,Grade 3,Graduate,Yes,3,,,1-10,Yes
+103721,city_73,,Has relevent experience,Grade 2,Graduate,Yes,5,1,,50-99,No
+103812,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,5,1,,,Yes
+103881,city_116,,Has relevent experience,Grade 3,,Yes,,never,,50-99,Yes
+103897,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,7,4,,10000+,No
+103979,city_16,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,50-99,Yes
+104042,city_165,,Has relevent experience,Grade 3,Masters,Yes,17,>4,,50-99,No
+104104,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,100-500,Yes
+104133,city_61,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,10000+,Yes
+104145,city_21,,No relevent experience,Grade 1,Masters,Yes,<1,1,,1-10,No
+104178,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,<10,No
+104211,city_45,Male,Has relevent experience,Grade 2,Masters,Yes,13,1,,,Yes
+104265,city_103,Female,Has relevent experience,Grade 2,Graduate,Yes,4,1,,50-99,Yes
+104267,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,16,4,,100-500,No
+104274,city_104,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,50-99,No
+104342,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,1,1,,,No
+104353,city_21,Male,Has relevent experience,Grade 2,Masters,Yes,5,1,,100-500,Yes
+104410,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,,No
+104498,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,6,1,,1000-4999,Yes
+104591,city_114,Male,No relevent experience,Grade 3,Masters,Yes,3,1,,1-10,No
+104621,city_90,Male,No relevent experience,Grade 3,High School,Yes,2,never,,,No
+104695,city_28,Male,Has relevent experience,Grade 1,Graduate,Yes,19,1,,50-99,Yes
+104725,city_104,Male,Has relevent experience,Grade 2,Graduate,Yes,10,1,,50-99,Yes
+104825,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,No
+104905,city_149,,No relevent experience,Grade 1,,Yes,2,,,,No
+104939,city_105,Male,Has relevent experience,Grade 3,Graduate,No,14,1,,100-500,No
+105007,city_103,,No relevent experience,Grade 2,High School,No,1,1,,,No
+105060,city_21,,Has relevent experience,Grade 1,Masters,Yes,8,2,,1000-4999,Yes
+105150,city_76,Male,Has relevent experience,Grade 2,,Yes,7,>4,,100-500,Yes
+105203,city_83,Male,Has relevent experience,Grade 2,Graduate,Yes,5,2,,1000-4999,Yes
+105214,city_103,Other,Has relevent experience,Grade 2,Graduate,Yes,5,1,,,No
+105293,city_97,Male,Has relevent experience,Grade 3,High School,No,7,1,,50-99,No
+105390,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,No
+105436,city_28,,Has relevent experience,Grade 3,Masters,Yes,19,2,,,Yes
+105468,city_13,,Has relevent experience,Grade 3,Graduate,Yes,5,2,,<10,Yes
+105476,city_64,Female,Has relevent experience,Grade 2,Graduate,Yes,18,>4,,100-500,Yes
+105485,city_31,Male,Has relevent experience,Grade 2,Graduate,Yes,15,>4,,,No
+105526,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,5,never,,<10,Yes
+105621,city_136,Male,No relevent experience,Grade 3,Graduate,Yes,8,1,,,No
+105648,city_19,Male,Has relevent experience,Grade 1,Graduate,Yes,8,3,,,Yes
+105675,city_90,Male,Has relevent experience,Grade 2,Graduate,Yes,2,never,,,No
+105685,city_11,Male,Has relevent experience,Grade 3,Graduate,Yes,<1,1,,50-99,No
+105710,city_143,Male,Has relevent experience,Grade 3,Graduate,Yes,13,2,,<10,No
+105751,city_16,Male,Has relevent experience,Grade 3,Masters,Yes,>20,4,,1000-4999,No
+105834,city_103,,No relevent experience,Grade 3,High School,Yes,1,never,,,Yes
+105931,city_160,Male,Has relevent experience,Grade 1,Graduate,Yes,7,1,,<10,Yes
+106007,city_11,Male,Has relevent experience,Grade 2,Graduate,Yes,3,1,,1-10,No
+106038,city_16,Male,Has relevent experience,Grade 3,Graduate,No,20,>4,,50-99,No
+106039,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,12,2,,50-99,No
+106059,city_103,Male,Has relevent experience,Grade 1,High School,Yes,9,2,,,Yes
+106111,city_100,Male,No relevent experience,Grade 3,Graduate,Yes,15,3,,,Yes
+106156,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,10000+,Yes
+106164,city_21,Male,No relevent experience,Grade 3,Masters,Yes,2,1,,,Yes
+106196,city_67,,Has relevent experience,Grade 1,Masters,Yes,15,>4,,100-500,Yes
+106261,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,9,>4,,500-999,Yes
+106317,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,14,1,,10000+,No
+106364,city_21,,Has relevent experience,Grade 3,Graduate,Yes,3,1,,100-500,Yes
+106370,city_75,Male,Has relevent experience,Grade 3,,Yes,19,>4,,1-10,No
+106417,city_13,Male,Has relevent experience,Grade 2,Masters,Yes,10,4,,10000+,Yes
+106436,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,3,,10000+,Yes
+106527,city_127,,No relevent experience,Grade 3,High School,Yes,1,never,,,Yes
+106627,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,1000-4999,No
+106662,city_19,Male,Has relevent experience,Grade 2,Masters,Yes,19,4,,1000-4999,Yes
+106761,city_114,Male,Has relevent experience,Grade 1,Masters,Yes,>20,2,,1000-4999,Yes
+106851,city_101,Male,Has relevent experience,Grade 2,Masters,Yes,3,2,,,Yes
+106943,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,17,3,,1000-4999,Yes
+106968,city_75,Male,Has relevent experience,Grade 3,Phd,Yes,>20,3,,1000-4999,Yes
+107027,city_103,Female,Has relevent experience,Grade 2,Graduate,Yes,4,1,,,Yes
+107095,city_21,Male,No relevent experience,Grade 2,High School,No,3,2,,<10,Yes
+107171,city_21,,Has relevent experience,Grade 3,Graduate,Yes,9,1,,10000+,Yes
+107206,city_103,,Has relevent experience,Grade 2,Masters,No,16,>4,,10000+,Yes
+107268,city_103,,No relevent experience,Grade 3,High School,Yes,3,>4,,,Yes
+107271,city_139,Male,No relevent experience,Grade 3,Graduate,Yes,1,never,,1-10,No
+107308,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,16,1,,50-99,Yes
+107322,city_16,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,2,,10000+,Yes
+107375,city_27,Male,Has relevent experience,Grade 3,Graduate,Yes,3,never,,50-99,Yes
+107410,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,11,2,,100-500,Yes
+107502,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,never,,50-99,Yes
+107578,city_103,,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,,Yes
+107619,city_71,Male,No relevent experience,Grade 3,Graduate,Yes,<1,>4,,,No
+107675,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,18,1,,50-99,No
+107760,city_67,Male,Has relevent experience,Grade 2,Masters,Yes,15,never,,50-99,Yes
+107797,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,11,1,,50-99,Yes
+107851,city_103,,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,5000-9999,Yes
+107906,city_160,,Has relevent experience,Grade 1,Graduate,Yes,6,1,,,Yes
+107930,city_103,,Has relevent experience,Grade 2,Graduate,Yes,5,never,,10000+,No
+107942,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,7,>4,,50-99,Yes
+107981,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,9,1,,1000-4999,Yes
+108020,city_143,,No relevent experience,Grade 2,Graduate,Yes,10,>4,,1000-4999,Yes
+108024,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,7,1,,,No
+108123,city_103,Male,No relevent experience,Grade 3,High School,Yes,1,never,,,No
+108125,city_99,,No relevent experience,Grade 2,High School,Yes,6,never,,,Yes
+108157,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,12,1,,1000-4999,Yes
+108196,city_61,Male,Has relevent experience,Grade 1,High School,Yes,3,1,,100-500,Yes
+108254,city_71,Male,No relevent experience,Grade 3,Masters,Yes,2,1,,1000-4999,Yes
+108277,city_173,Male,Has relevent experience,Grade 1,Masters,Yes,>20,2,,1000-4999,Yes
+108372,city_103,,No relevent experience,Grade 3,,No,,,,,Yes
+108398,city_21,,Has relevent experience,Grade 2,Graduate,Yes,<1,1,,<10,Yes
+108494,city_103,,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,5000-9999,No
+108516,city_16,Female,No relevent experience,Grade 1,Phd,Yes,19,1,,1000-4999,No
+108518,city_21,,Has relevent experience,Grade 3,Masters,Yes,<1,,,<10,Yes
+108564,city_16,,No relevent experience,Grade 1,High School,Yes,<1,1,,,Yes
+108635,city_70,Male,Has relevent experience,Grade 2,Graduate,Yes,18,2,,100-500,Yes
+108682,city_73,Male,Has relevent experience,Grade 2,Masters,Yes,>20,1,,50-99,Yes
+108733,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,>20,>4,,<10,Yes
+108772,city_69,Female,Has relevent experience,Grade 2,Graduate,Yes,7,1,,500-999,No
+108839,city_61,Male,Has relevent experience,Grade 1,Graduate,Yes,11,>4,,100-500,Yes
+108892,city_64,,Has relevent experience,Grade 3,High School,Yes,2,never,,,No
+108894,city_21,,Has relevent experience,Grade 2,Graduate,Yes,<1,1,,,Yes
+108993,city_16,Male,No relevent experience,Grade 3,Phd,Yes,>20,>4,,,Yes
+109005,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,<1,1,,,Yes
+109007,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,5,1,,1-10,Yes
+109091,city_100,Male,Has relevent experience,Grade 2,Graduate,Yes,15,1,,,Yes
+109151,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,10,1,,,No
+109203,city_160,Male,Has relevent experience,Grade 2,Graduate,No,>20,>4,,10000+,Yes
+109278,city_114,,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,100-500,Yes
+109375,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,3,1,,10000+,Yes
+109411,city_16,Male,Has relevent experience,Grade 1,Masters,Yes,7,4,,,Yes
+109448,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,15,4,,100-500,Yes
+109527,city_134,,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,,Yes
+109592,city_44,,Has relevent experience,Grade 3,Masters,Yes,5,,,1-10,No
+109607,city_41,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,50-99,Yes
+109665,city_90,Male,No relevent experience,Grade 3,Graduate,Yes,<1,never,,,Yes
+109694,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,10000+,Yes
+109789,city_103,Male,No relevent experience,Grade 2,Masters,Yes,16,never,,,Yes
+109828,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,13,4,,5000-9999,Yes
+109917,city_149,Male,Has relevent experience,Grade 2,High School,Yes,6,1,,100-500,Yes
+109921,city_165,Male,Has relevent experience,Grade 3,Phd,Yes,>20,1,,,No
+109938,city_103,,Has relevent experience,Grade 3,Masters,Yes,12,1,,100-500,Yes
+109947,city_28,Male,No relevent experience,Grade 1,Phd,Yes,>20,2,,5000-9999,Yes
+109986,city_83,,No relevent experience,Grade 1,Graduate,Yes,3,never,,1-10,Yes
+110034,city_165,,No relevent experience,Grade 2,Graduate,No,13,3,,,Yes
+110107,city_150,Male,No relevent experience,Grade 3,High School,Yes,1,never,,,Yes
+110124,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,6,1,,5000-9999,No
+110202,city_16,Female,Has relevent experience,Grade 1,Graduate,Yes,5,1,,10000+,Yes
+110243,city_16,Male,Has relevent experience,Grade 1,Phd,Yes,>20,3,,50-99,No
+110291,city_114,Male,Has relevent experience,Grade 1,High School,Yes,5,>4,,10000+,Yes
+110341,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,100-500,Yes
+110423,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,16,1,,500-999,Yes
+110432,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,50-99,Yes
+110499,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,2,1,,50-99,Yes
+110510,city_74,Male,Has relevent experience,Grade 3,Masters,Yes,3,1,,50-99,No
+110601,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,10,>4,,10000+,Yes
+110614,city_114,,No relevent experience,Grade 3,Phd,Yes,15,1,,10000+,No
+110655,city_143,Male,Has relevent experience,Grade 1,Graduate,Yes,6,4,,1-10,Yes
+110658,city_103,,No relevent experience,Grade 2,Graduate,Yes,1,1,,100-500,Yes
+110661,city_176,Male,Has relevent experience,Grade 3,Graduate,No,4,1,,1-10,Yes
+110697,city_21,Male,Has relevent experience,Grade 3,Masters,Yes,9,>4,,1-10,No
+110726,city_16,Male,Has relevent experience,Grade 3,High School,Yes,>20,1,,100-500,No
+110775,city_155,Male,No relevent experience,Grade 3,Graduate,No,2,,,,No
+110805,city_155,Male,Has relevent experience,Grade 2,Graduate,No,7,3,,50-99,Yes
+110848,city_21,Male,No relevent experience,Grade 3,Masters,Yes,4,1,,100-500,Yes
+110849,city_21,Male,No relevent experience,Grade 2,High School,No,2,never,,,Yes
+110946,city_167,Male,Has relevent experience,Grade 1,Graduate,No,7,1,,100-500,Yes
+110959,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,2,,50-99,No
+111000,city_90,Male,Has relevent experience,Grade 3,Graduate,Yes,7,1,,,Yes
+111086,city_73,,Has relevent experience,Grade 3,Graduate,Yes,6,3,,1-10,Yes
+111100,city_114,Male,No relevent experience,Grade 1,High School,Yes,5,never,,,Yes
+111129,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,1000-4999,Yes
+111215,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,3,never,,,Yes
+111267,city_114,,No relevent experience,Grade 1,High School,Yes,11,>4,,100-500,Yes
+111362,city_21,Female,Has relevent experience,Grade 1,Graduate,Yes,<1,1,,100-500,Yes
+111402,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,13,2,,100-500,Yes
+111450,city_149,,Has relevent experience,Grade 3,Graduate,No,9,2,,,Yes
+111501,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,7,3,,50-99,Yes
+111534,city_11,Male,Has relevent experience,Grade 3,Graduate,Yes,7,3,,,No
+111585,city_28,Male,Has relevent experience,Grade 3,Graduate,No,8,2,,1-10,Yes
+111614,city_160,Male,No relevent experience,Grade 3,High School,Yes,2,1,,,Yes
+111650,city_21,,Has relevent experience,Grade 3,Graduate,Yes,1,never,,100-500,No
+111719,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,14,1,,,Yes
+111745,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,<10,Yes
+111831,city_21,,No relevent experience,Grade 3,,Yes,1,never,,,Yes
+111894,city_11,Male,Has relevent experience,Grade 3,Graduate,No,4,1,,50-99,Yes
+111898,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,6,2,,50-99,No
+111971,city_105,Female,Has relevent experience,Grade 2,Masters,Yes,,1,,500-999,Yes
+111993,city_21,,No relevent experience,Grade 1,High School,Yes,2,never,,,Yes
+112078,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,10000+,No
+112164,city_114,Female,Has relevent experience,Grade 2,Masters,Yes,>20,never,,,Yes
+112191,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,16,>4,,100-500,Yes
+112290,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,19,1,,10000+,Yes
+112333,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,12,2,,,Yes
+112359,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,17,>4,,50-99,Yes
+112433,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,4,never,,,Yes
+112452,city_136,Male,Has relevent experience,Grade 3,Phd,No,14,1,,<10,Yes
+112517,city_21,Male,Has relevent experience,Grade 3,High School,Yes,10,never,,,Yes
+112555,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,2,,100-500,Yes
+112642,city_30,Male,Has relevent experience,Grade 2,,Yes,>20,,,<10,Yes
+112702,city_97,,Has relevent experience,Grade 1,High School,No,8,1,,,Yes
+112757,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,2,1,,<10,Yes
+112822,city_21,,Has relevent experience,Grade 1,Graduate,Yes,4,1,,1-10,Yes
+112880,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,7,>4,,10000+,Yes
+112901,city_103,,Has relevent experience,Grade 3,Graduate,No,15,2,,1000-4999,Yes
+112903,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,2,never,,100-500,No
+112960,city_160,Male,Has relevent experience,Grade 1,,Yes,>20,2,,<10,No
+112978,city_21,Female,Has relevent experience,Grade 3,Graduate,Yes,6,1,,10000+,Yes
+113065,city_103,Female,No relevent experience,Grade 2,Graduate,Yes,3,1,,5000-9999,Yes
+113097,city_21,,No relevent experience,Grade 2,Graduate,Yes,<1,,,<10,Yes
+113108,city_160,,No relevent experience,Grade 3,Graduate,Yes,>20,,,,No
+113169,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,50-99,Yes
+113262,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,7,1,,5000-9999,Yes
+113334,city_89,Female,Has relevent experience,Grade 3,Graduate,Yes,3,2,,<10,Yes
+113340,city_57,,No relevent experience,Grade 3,Masters,Yes,12,never,,,Yes
+113376,city_98,Male,Has relevent experience,Grade 1,Graduate,Yes,9,1,,<10,Yes
+113423,city_103,,Has relevent experience,Grade 3,Primary School,Yes,7,1,,100-500,Yes
+113482,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,5,4,,500-999,Yes
+113513,city_11,Male,Has relevent experience,Grade 1,Graduate,Yes,4,never,,100-500,Yes
+113560,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,9,2,,,Yes
+113577,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,17,2,,<10,Yes
+113587,city_149,Male,Has relevent experience,Grade 3,Graduate,Yes,4,2,,1000-4999,Yes
+113655,city_16,Male,Has relevent experience,Grade 3,Masters,Yes,7,1,,,Yes
+113656,city_41,,Has relevent experience,Grade 1,High School,Yes,4,2,,100-500,Yes
+113749,city_69,Male,Has relevent experience,Grade 2,Graduate,Yes,7,1,,<10,Yes
+113848,city_21,,Has relevent experience,Grade 1,Graduate,Yes,6,never,,10000+,No
+113908,city_114,Male,Has relevent experience,Grade 3,,No,2,never,,,Yes
+113987,city_150,Male,Has relevent experience,Grade 1,High School,Yes,2,2,,50-99,Yes
+114084,city_61,Male,Has relevent experience,Grade 3,Masters,Yes,20,never,,1000-4999,Yes
+114178,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,17,3,,1-10,Yes
+114272,city_103,,Has relevent experience,Grade 3,Graduate,Yes,6,2,,,No
+114323,city_76,Other,Has relevent experience,Grade 3,Graduate,No,9,3,,10000+,No
+114371,city_67,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,never,,<10,Yes
+114466,city_104,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,,Yes
+114562,city_103,,No relevent experience,Grade 3,Graduate,Yes,>20,>4,,,Yes
+114658,city_165,Male,Has relevent experience,Grade 1,Phd,Yes,14,>4,,100-500,No
+114735,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,2,,50-99,Yes
+114748,city_162,,Has relevent experience,Grade 3,Graduate,Yes,6,1,,1-10,Yes
+114828,city_64,Male,Has relevent experience,Grade 1,Graduate,Yes,15,1,,1-10,Yes
+114856,city_36,,No relevent experience,Grade 2,Graduate,Yes,>20,>4,,10000+,Yes
+114930,city_103,Other,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,,Yes
+114981,city_16,Female,Has relevent experience,Grade 3,Graduate,Yes,19,>4,,1-10,No
+115009,city_74,,Has relevent experience,Grade 1,Graduate,Yes,6,>4,,50-99,Yes
+115017,city_16,Male,Has relevent experience,Grade 2,High School,Yes,7,1,,10000+,Yes
+115043,city_21,Male,No relevent experience,Grade 3,,Yes,3,never,,,Yes
+115136,city_103,Male,Has relevent experience,Grade 1,Masters,No,5,2,,,Yes
+115185,city_90,,Has relevent experience,Grade 3,High School,Yes,11,2,,<10,Yes
+115203,city_105,Male,Has relevent experience,Grade 1,Masters,Yes,10,2,,100-500,No
+115268,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,8,1,,500-999,Yes
+115275,city_103,Male,Has relevent experience,Grade 1,Graduate,No,13,>4,,50-99,Yes
+115358,city_107,Male,No relevent experience,Grade 3,High School,No,2,never,,,Yes
+115403,city_101,Male,Has relevent experience,Grade 3,High School,Yes,3,never,,,No
+115426,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,<1,1,,50-99,Yes
+115448,city_83,,Has relevent experience,Grade 3,Graduate,Yes,20,1,,100-500,Yes
+115463,city_57,Male,Has relevent experience,Grade 2,Masters,Yes,10,1,,100-500,Yes
+115484,city_21,Female,No relevent experience,Grade 1,High School,Yes,2,never,,10000+,Yes
+115541,city_128,,Has relevent experience,Grade 3,Graduate,Yes,6,1,,1-10,Yes
+115612,city_28,Male,Has relevent experience,Grade 2,Masters,Yes,>20,3,,,No
+115695,city_39,Male,Has relevent experience,Grade 3,Graduate,Yes,14,1,,500-999,Yes
+115754,city_102,Male,Has relevent experience,Grade 3,Graduate,No,6,4,,1-10,Yes
+115779,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,12,1,,,Yes
+115788,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,13,1,,100-500,Yes
+115828,city_21,Male,No relevent experience,Grade 3,Masters,Yes,6,>4,,100-500,Yes
+115915,city_67,Male,Has relevent experience,Grade 3,High School,Yes,3,1,,100-500,Yes
+115996,city_103,Male,Has relevent experience,Grade 2,Phd,Yes,>20,>4,,<10,Yes
+116030,city_67,Male,No relevent experience,Grade 2,High School,Yes,6,never,,,Yes
+116031,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,17,3,,50-99,Yes
+116062,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,11,never,,5000-9999,Yes
+116158,city_160,Male,No relevent experience,Grade 3,Graduate,Yes,3,1,,,Yes
+116167,city_103,Male,Has relevent experience,Grade 1,Graduate,No,5,never,,10000+,Yes
+116172,city_21,Female,Has relevent experience,Grade 1,Masters,Yes,5,1,,10000+,Yes
+116226,city_21,Female,Has relevent experience,Grade 3,Graduate,Yes,5,1,,,Yes
+116299,city_19,Male,No relevent experience,Grade 2,Graduate,Yes,2,never,,,Yes
+116363,city_99,,No relevent experience,Grade 2,High School,Yes,3,,,,Yes
+116448,city_16,Male,Has relevent experience,Grade 2,High School,Yes,3,1,,50-99,No
+116486,city_16,,No relevent experience,Grade 2,Primary School,No,>20,never,,,Yes
+116542,city_23,Female,Has relevent experience,Grade 3,Graduate,Yes,3,2,,,No
+116584,city_65,,Has relevent experience,Grade 2,Graduate,Yes,6,2,,,Yes
+116647,city_10,,No relevent experience,Grade 1,Masters,Yes,>20,2,,100-500,Yes
+116692,city_73,,No relevent experience,Grade 2,Graduate,Yes,2,never,,,Yes
+116788,city_103,,Has relevent experience,Grade 2,Masters,Yes,12,3,,50-99,Yes
+116864,city_102,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,,Yes
+116904,city_102,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,<10,Yes
+116934,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,,No
+116971,city_40,Male,No relevent experience,Grade 2,Graduate,Yes,8,2,,,Yes
+117015,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,16,never,,50-99,Yes
+117100,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,,No
+117132,city_103,,No relevent experience,Grade 1,,Yes,>20,2,,500-999,Yes
+117204,city_21,,No relevent experience,Grade 3,Graduate,Yes,4,1,,50-99,Yes
+117226,city_90,Male,Has relevent experience,Grade 2,Graduate,Yes,12,,,<10,Yes
+117276,city_73,Male,Has relevent experience,Grade 3,Graduate,No,>20,1,,,Yes
+117300,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,3,1,,1-10,Yes
+117388,city_11,Male,Has relevent experience,Grade 3,Graduate,No,5,1,,50-99,Yes
+117423,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,1000-4999,Yes
+117491,city_73,Male,Has relevent experience,Grade 1,Masters,Yes,10,1,,100-500,Yes
+117571,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,8,1,,10000+,Yes
+117608,city_103,Male,No relevent experience,Grade 2,High School,Yes,8,1,,500-999,No
+117635,city_11,,No relevent experience,Grade 3,Graduate,Yes,<1,never,,,Yes
+117708,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,,Yes
+117723,city_21,,Has relevent experience,Grade 2,Graduate,Yes,4,1,,100-500,Yes
+117797,city_74,Male,No relevent experience,Grade 2,Graduate,Yes,2,1,,1-10,Yes
+117880,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,10000+,Yes
+117978,city_16,Male,No relevent experience,Grade 1,Graduate,Yes,3,1,,,Yes
+118055,city_103,Male,Has relevent experience,Grade 3,Graduate,No,9,2,,1000-4999,Yes
+118118,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,50-99,Yes
+118205,city_160,,Has relevent experience,Grade 2,Graduate,Yes,17,>4,,,Yes
+118255,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,6,2,,50-99,Yes
+118313,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,5,1,,1000-4999,No
+118411,city_11,,No relevent experience,Grade 1,High School,Yes,1,1,,,No
+118435,city_149,,Has relevent experience,Grade 1,Graduate,Yes,3,1,,50-99,Yes
+118505,city_103,,No relevent experience,Grade 1,Primary School,Yes,1,never,,,No
+118543,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,18,>4,,50-99,No
+118641,city_152,,Has relevent experience,Grade 2,Masters,Yes,15,1,,,No
+118704,city_103,Male,No relevent experience,Grade 2,Masters,Yes,15,1,,,Yes
+118787,city_103,,Has relevent experience,Grade 3,Graduate,Yes,19,1,,100-500,Yes
+118852,city_103,,No relevent experience,Grade 3,Graduate,Yes,2,,,10000+,Yes
+118887,city_97,Male,Has relevent experience,Grade 2,Graduate,Yes,15,1,,1000-4999,Yes
+118922,city_30,,No relevent experience,Grade 2,,No,4,1,,50-99,Yes
+118953,city_19,Female,No relevent experience,Grade 3,Graduate,Yes,3,1,,100-500,Yes
+119042,city_21,,Has relevent experience,Grade 2,Graduate,Yes,3,1,,100-500,Yes
+119117,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,500-999,Yes
+119143,city_114,Male,Has relevent experience,Grade 2,Phd,Yes,>20,4,,,Yes
+119184,city_165,Male,No relevent experience,Grade 1,Phd,Yes,2,1,,50-99,No
+119215,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,7,2,,500-999,Yes
+119261,city_102,Male,No relevent experience,Grade 2,Graduate,Yes,14,2,,100-500,Yes
+119269,city_21,Male,No relevent experience,Grade 2,High School,Yes,1,never,,,Yes
+119292,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,3,,1-10,Yes
+119349,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,3,1,,10000+,No
+119396,city_16,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,1,,<10,Yes
+119437,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,6,1,,1000-4999,Yes
+119459,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,8,1,,50-99,No
+119521,city_114,Male,Has relevent experience,Grade 3,High School,Yes,6,1,,1000-4999,Yes
+119574,city_103,,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1-10,Yes
+119666,city_123,,No relevent experience,Grade 1,Graduate,Yes,13,1,,,No
+119750,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,1000-4999,Yes
+119777,city_103,Male,Has relevent experience,Grade 2,Phd,Yes,7,2,,100-500,Yes
+119847,city_21,,No relevent experience,Grade 3,Masters,Yes,2,2,,100-500,Yes
+119861,city_71,Other,No relevent experience,Grade 1,Graduate,Yes,2,1,,,Yes
+119889,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,12,>4,,1-10,Yes
+119956,city_103,,No relevent experience,Grade 3,Graduate,Yes,2,1,,,Yes
+119979,city_61,Female,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,10000+,No
+120028,city_103,,No relevent experience,Grade 3,Graduate,Yes,1,1,,50-99,No
+120110,city_143,Male,Has relevent experience,Grade 2,Masters,Yes,11,2,,1-10,Yes
+120202,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,9,1,,1000-4999,Yes
+120281,city_114,Male,Has relevent experience,Grade 3,,Yes,4,1,,100-500,No
+120302,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,10,>4,,10000+,Yes
+120362,city_123,Male,Has relevent experience,Grade 1,Phd,Yes,>20,2,,50-99,Yes
+120443,city_136,Male,No relevent experience,Grade 3,Graduate,Yes,2,never,,,Yes
+120487,city_114,Female,Has relevent experience,Grade 1,High School,Yes,4,never,,100-500,No
+120560,city_100,Male,No relevent experience,Grade 2,Masters,Yes,9,>4,,<10,Yes
+120623,city_70,,No relevent experience,Grade 3,Primary School,Yes,1,never,,,No
+120662,city_100,Male,No relevent experience,Grade 3,Primary School,Yes,1,never,,,Yes
+120703,city_21,,Has relevent experience,Grade 1,Masters,Yes,6,1,,10000+,Yes
+120782,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,,Yes
+120783,city_23,Male,Has relevent experience,Grade 2,High School,Yes,>20,1,,,Yes
+120794,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,5000-9999,Yes
+120853,city_114,Male,No relevent experience,Grade 2,Graduate,Yes,20,4,,,Yes
+120882,city_114,,Has relevent experience,Grade 3,Graduate,Yes,12,1,,1-10,Yes
+120906,city_103,Male,Has relevent experience,Grade 2,Graduate,No,15,4,,,Yes
+120912,city_103,,Has relevent experience,Grade 3,Masters,Yes,2,1,,10000+,Yes
+120970,city_23,Female,Has relevent experience,Grade 2,Graduate,Yes,16,1,,50-99,Yes
+121026,city_27,,No relevent experience,Grade 2,Masters,Yes,>20,>4,,1000-4999,Yes
+121073,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,5,1,,50-99,Yes
+121075,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1-10,Yes
+121106,city_16,Male,No relevent experience,Grade 3,High School,Yes,<1,never,,,Yes
+121108,city_73,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,1-10,Yes
+121117,city_179,Male,Has relevent experience,Grade 3,Masters,Yes,9,1,,1-10,Yes
+121191,city_16,Male,No relevent experience,Grade 3,Graduate,Yes,>20,1,,1-10,Yes
+121215,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,14,>4,,50-99,Yes
+121284,city_21,Female,Has relevent experience,Grade 3,Graduate,Yes,1,never,,50-99,Yes
+121288,city_104,,Has relevent experience,Grade 3,Graduate,Yes,10,1,,100-500,Yes
+121334,city_65,Male,Has relevent experience,Grade 1,Masters,Yes,9,4,,500-999,Yes
+121407,city_21,Male,No relevent experience,Grade 2,Masters,Yes,3,1,,5000-9999,No
+121494,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,13,1,,,Yes
+121573,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,2,,1-10,No
+121637,city_136,Male,Has relevent experience,Grade 3,Graduate,Yes,14,>4,,<10,Yes
+121711,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,50-99,Yes
+121801,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,2,,<10,No
+121884,city_61,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,1-10,Yes
+121956,city_23,Male,Has relevent experience,Grade 3,Masters,Yes,>20,4,,10000+,No
+122039,city_75,Male,Has relevent experience,Grade 3,Graduate,No,8,2,,500-999,No
+122095,city_114,Male,Has relevent experience,Grade 3,High School,Yes,10,1,,50-99,No
+122136,city_61,,Has relevent experience,Grade 1,Graduate,Yes,>20,3,,<10,No
+122141,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,7,2,,50-99,Yes
+122181,city_160,Female,Has relevent experience,Grade 2,Graduate,Yes,3,2,,1000-4999,No
+122225,city_75,Male,Has relevent experience,Grade 2,Graduate,Yes,5,2,,1000-4999,Yes
+122272,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,19,1,,50-99,Yes
+122273,city_103,Male,Has relevent experience,Grade 2,High School,Yes,9,1,,1-10,No
+122312,city_50,,Has relevent experience,Grade 3,Graduate,Yes,7,1,,10000+,Yes
+122360,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,7,2,,1-10,No
+122364,city_67,Male,Has relevent experience,Grade 1,Graduate,Yes,8,1,,,No
+122369,city_36,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,<10,No
+122421,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,10,>4,,5000-9999,No
+122510,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,20,1,,1-10,No
+122593,city_115,Female,No relevent experience,Grade 3,Graduate,No,2,never,,,Yes
+122636,city_160,Male,Has relevent experience,Grade 3,Primary School,Yes,>20,1,,100-500,No
+122686,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,6,never,,,Yes
+122753,city_21,,Has relevent experience,Grade 3,Graduate,Yes,1,,,50-99,Yes
+122827,city_114,Male,No relevent experience,Grade 1,Phd,Yes,>20,>4,,1000-4999,Yes
+122828,city_114,Male,Has relevent experience,Grade 1,Graduate,Yes,13,2,,500-999,Yes
+122862,city_103,Female,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,,No
+122891,city_128,Male,No relevent experience,Grade 3,High School,Yes,<1,never,,,No
+122985,city_77,Male,Has relevent experience,Grade 1,Phd,Yes,20,1,,50-99,Yes
+123062,city_103,Male,No relevent experience,Grade 2,Masters,Yes,14,never,,,Yes
+123140,city_116,Male,Has relevent experience,Grade 2,Masters,Yes,18,4,,1000-4999,Yes
+123199,city_16,Male,Has relevent experience,Grade 1,Graduate,Yes,10,2,,100-500,No
+123223,city_136,Male,No relevent experience,Grade 2,Graduate,Yes,7,1,,,Yes
+123307,city_41,Male,Has relevent experience,Grade 2,Graduate,Yes,9,2,,5000-9999,Yes
+123341,city_103,Male,No relevent experience,Grade 1,Graduate,Yes,4,1,,,Yes
+123350,city_103,Male,Has relevent experience,Grade 3,Graduate,No,7,3,,1000-4999,No
+123359,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,11,>4,,1000-4999,No
+123433,city_16,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,1000-4999,Yes
+123513,city_11,Male,Has relevent experience,Grade 3,Graduate,Yes,17,1,,1000-4999,No
+123575,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,10000+,No
+123587,city_21,,Has relevent experience,Grade 3,Graduate,Yes,2,never,,10000+,No
+123659,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,11,1,,10000+,Yes
+123739,city_90,Male,Has relevent experience,Grade 3,Graduate,Yes,14,1,,,No
+123806,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,16,1,,50-99,Yes
+123869,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,50-99,No
+123902,city_21,Male,Has relevent experience,Grade 1,Masters,No,3,1,,<10,Yes
+123973,city_11,,No relevent experience,Grade 2,Graduate,No,1,1,,,No
+124026,city_165,Other,Has relevent experience,Grade 3,Graduate,Yes,3,1,,<10,Yes
+124097,city_36,Male,Has relevent experience,Grade 3,Masters,Yes,10,4,,1000-4999,No
+124195,city_102,Male,Has relevent experience,Grade 2,Graduate,Yes,13,>4,,1-10,Yes
+124251,city_67,,Has relevent experience,Grade 3,Graduate,Yes,9,1,,100-500,Yes
+124295,city_50,Male,Has relevent experience,Grade 3,Graduate,Yes,15,>4,,,No
+124391,city_160,Male,Has relevent experience,Grade 1,Graduate,No,>20,2,,,No
+124447,city_116,Male,No relevent experience,Grade 2,Graduate,Yes,5,never,,100-500,No
+124460,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,10000+,No
+124492,city_102,Male,Has relevent experience,Grade 2,Graduate,Yes,6,2,,50-99,Yes
+124551,city_21,Male,Has relevent experience,Grade 2,Masters,Yes,16,1,,10000+,Yes
+124596,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,4,,1000-4999,No
+124640,city_173,Male,No relevent experience,Grade 3,Graduate,Yes,3,1,,10000+,No
+124722,city_21,,Has relevent experience,Grade 3,Masters,Yes,5,2,,10000+,Yes
+124796,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,5,never,,,Yes
+124806,city_65,Male,No relevent experience,Grade 3,Graduate,Yes,3,2,,<10,No
+124867,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,8,2,,100-500,Yes
+124898,city_64,Male,No relevent experience,Grade 3,Graduate,Yes,>20,1,,,No
+124975,city_64,Other,No relevent experience,Grade 2,Graduate,Yes,9,never,,,No
+125002,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,2,1,,<10,Yes
+125093,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,10000+,Yes
+125162,city_46,,Has relevent experience,Grade 1,Graduate,Yes,8,1,,50-99,Yes
+125183,city_103,Female,Has relevent experience,Grade 2,Masters,No,10,2,,50-99,No
+125191,city_128,Male,Has relevent experience,Grade 3,Graduate,Yes,10,1,,10000+,Yes
+125256,city_45,,No relevent experience,Grade 2,High School,Yes,8,3,,,Yes
+125343,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,500-999,No
+125430,city_159,Male,Has relevent experience,Grade 3,Graduate,Yes,10,1,,100-500,Yes
+125484,city_16,Female,Has relevent experience,Grade 3,Graduate,Yes,8,>4,,1000-4999,Yes
+125571,city_136,Male,No relevent experience,Grade 1,Masters,Yes,10,>4,,100-500,Yes
+125656,city_21,,Has relevent experience,Grade 3,Masters,Yes,1,1,,<10,No
+125741,city_67,,Has relevent experience,Grade 2,Masters,No,14,2,,,Yes
+125796,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,11,1,,50-99,Yes
+125849,city_16,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,10000+,Yes
+125856,city_67,Male,No relevent experience,Grade 3,Masters,No,14,2,,,Yes
+125940,city_16,Male,No relevent experience,Grade 2,Masters,Yes,14,1,,50-99,Yes
+125968,city_103,Male,No relevent experience,Grade 3,Graduate,No,4,4,,10000+,Yes
+126030,city_21,,No relevent experience,Grade 3,Graduate,No,<1,2,,,Yes
+126073,city_116,Male,No relevent experience,Grade 3,High School,Yes,6,1,,<10,No
+126148,city_21,Male,No relevent experience,Grade 3,Masters,Yes,2,1,,50-99,Yes
+126212,city_114,Male,Has relevent experience,Grade 3,Phd,Yes,>20,>4,,,Yes
+126245,city_45,Male,Has relevent experience,Grade 3,High School,Yes,9,2,,<10,Yes
+126326,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,13,1,,1000-4999,No
+126420,city_44,Female,Has relevent experience,Grade 1,Masters,Yes,9,never,,50-99,Yes
+126436,city_114,,Has relevent experience,Grade 3,Masters,Yes,>20,never,,50-99,No
+126535,city_80,Female,Has relevent experience,Grade 3,Graduate,Yes,5,1,,100-500,No
+126602,city_73,Female,No relevent experience,Grade 2,Graduate,Yes,7,1,,,Yes
+126640,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,3,1,,50-99,Yes
+126728,city_103,Male,Has relevent experience,Grade 3,High School,Yes,>20,>4,,100-500,No
+126733,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,4,,50-99,Yes
+126751,city_114,Male,No relevent experience,Grade 3,Masters,Yes,18,>4,,100-500,No
+126794,city_100,,No relevent experience,Grade 1,Phd,No,>20,>4,,500-999,No
+126860,city_114,Male,No relevent experience,Grade 2,High School,Yes,6,never,,,No
+126936,city_114,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,1000-4999,No
+126986,city_114,Male,Has relevent experience,Grade 2,Graduate,No,>20,>4,,,No
+127030,city_21,,No relevent experience,Grade 2,Masters,Yes,11,2,,<10,No
+127072,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,5,>4,,1-10,No
+127158,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,<1,4,,5000-9999,Yes
+127245,city_173,Male,Has relevent experience,Grade 1,Masters,Yes,8,1,,10000+,Yes
+127285,city_21,Female,Has relevent experience,Grade 3,Graduate,Yes,<1,1,,50-99,Yes
+127339,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,8,2,,100-500,No
+127384,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,6,1,,10000+,No
+127409,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,16,1,,,Yes
+127496,city_16,,Has relevent experience,Grade 2,Graduate,Yes,>20,3,,100-500,Yes
+127530,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,5,4,,50-99,No
+127540,city_67,Male,Has relevent experience,Grade 3,Graduate,No,7,1,,10000+,Yes
+127618,city_104,Male,Has relevent experience,Grade 3,Graduate,Yes,16,>4,,100-500,Yes
+127711,city_114,Male,No relevent experience,Grade 3,High School,Yes,8,1,,,No
+127801,city_89,Male,Has relevent experience,Grade 2,Graduate,Yes,9,1,,,Yes
+127901,city_128,Male,No relevent experience,Grade 2,Masters,Yes,<1,1,,,No
+127944,city_28,Male,Has relevent experience,Grade 3,Masters,Yes,13,1,,<10,Yes
+127956,city_16,Male,Has relevent experience,Grade 1,High School,Yes,12,1,,50-99,Yes
+127958,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,1,1,,1-10,Yes
+128042,city_16,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,100-500,Yes
+128082,city_114,,Has relevent experience,Grade 3,Masters,No,14,1,,50-99,Yes
+128168,city_21,,No relevent experience,Grade 2,Masters,Yes,2,1,,5000-9999,Yes
+128224,city_114,Male,No relevent experience,Grade 1,High School,Yes,3,never,,,Yes
+128314,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,10000+,Yes
+128407,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,9,4,,,Yes
+128497,city_90,Male,Has relevent experience,Grade 3,Masters,Yes,13,1,,50-99,No
+128560,city_105,Male,No relevent experience,Grade 1,Masters,Yes,<1,2,,100-500,Yes
+128571,city_16,Male,No relevent experience,Grade 3,Graduate,Yes,4,2,,5000-9999,Yes
+128669,city_80,Male,No relevent experience,Grade 2,Primary School,Yes,3,never,,,Yes
+128752,city_64,Female,Has relevent experience,Grade 3,Graduate,Yes,3,2,,1-10,No
+128829,city_67,Male,Has relevent experience,Grade 3,Graduate,Yes,7,2,,100-500,Yes
+128897,city_114,Male,Has relevent experience,Grade 3,High School,Yes,17,>4,,500-999,No
+128992,city_100,Male,No relevent experience,Grade 1,Graduate,Yes,1,1,,,Yes
+129034,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,>20,1,,100-500,No
+129113,city_16,Male,Has relevent experience,Grade 2,Graduate,No,>20,1,,1-10,Yes
+129199,city_72,Male,Has relevent experience,Grade 2,Graduate,Yes,6,1,,5000-9999,Yes
+129218,city_73,Male,Has relevent experience,Grade 3,Graduate,Yes,4,2,,50-99,No
+129303,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,13,1,,1-10,No
+129327,city_71,Male,Has relevent experience,Grade 1,Graduate,Yes,5,1,,100-500,Yes
+129386,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,8,2,,,No
+129446,city_116,Male,Has relevent experience,Grade 1,Masters,Yes,3,1,,500-999,Yes
+129546,city_114,Male,No relevent experience,Grade 2,Masters,Yes,9,1,,50-99,No
+129549,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,100-500,Yes
+129583,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,16,>4,,,Yes
+129654,city_10,,No relevent experience,Grade 3,Graduate,Yes,14,,,1000-4999,Yes
+129713,city_171,Male,Has relevent experience,Grade 3,,No,9,1,,,No
+129794,city_134,Male,No relevent experience,Grade 3,Graduate,Yes,6,1,,,Yes
+129859,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,17,1,,500-999,No
+129910,city_158,Male,No relevent experience,Grade 1,Graduate,Yes,10,never,,,Yes
+130004,city_103,,Has relevent experience,Grade 3,Masters,Yes,9,1,,,Yes
+130031,city_27,Male,Has relevent experience,Grade 3,Graduate,Yes,10,2,,,No
+130117,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,9,1,,5000-9999,Yes
+130216,city_16,Male,Has relevent experience,Grade 1,High School,Yes,>20,1,,1-10,Yes
+130289,city_50,Male,Has relevent experience,Grade 3,Masters,Yes,>20,4,,,Yes
+130384,city_50,Male,Has relevent experience,Grade 3,Graduate,Yes,8,2,,50-99,Yes
+130431,city_114,Female,Has relevent experience,Grade 3,Graduate,Yes,10,3,,50-99,No
+130513,city_102,Male,No relevent experience,Grade 3,Masters,Yes,16,2,,,No
+130517,city_173,Male,Has relevent experience,Grade 2,Graduate,Yes,1,1,,,Yes
+130602,city_50,Male,Has relevent experience,Grade 3,Masters,Yes,7,1,,500-999,Yes
+130696,city_90,Male,No relevent experience,Grade 1,Primary School,Yes,2,never,,,Yes
+130749,city_13,,No relevent experience,Grade 2,Graduate,Yes,<1,never,,,Yes
+130840,city_16,Male,Has relevent experience,Grade 3,Graduate,No,>20,1,,,No
+130851,city_28,Male,Has relevent experience,Grade 2,High School,No,6,1,,10000+,Yes
+130877,city_73,Male,Has relevent experience,Grade 3,Graduate,No,17,1,,10000+,No
+130943,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,5,3,,1000-4999,Yes
+130948,city_65,Male,Has relevent experience,Grade 3,Graduate,Yes,12,>4,,1000-4999,Yes
+130989,city_21,,Has relevent experience,Grade 3,Graduate,Yes,2,1,,<10,Yes
+131052,city_114,Male,Has relevent experience,Grade 1,High School,Yes,2,1,,100-500,Yes
+131079,city_41,,Has relevent experience,Grade 1,Masters,Yes,8,,,,No
+131098,city_160,,Has relevent experience,Grade 2,Masters,Yes,11,1,,,No
+131160,city_21,Male,Has relevent experience,Grade 2,Masters,Yes,12,never,,10000+,Yes
+131212,city_46,Male,Has relevent experience,Grade 1,Graduate,Yes,9,1,,50-99,No
+131252,city_162,Male,Has relevent experience,Grade 3,Graduate,Yes,11,>4,,100-500,Yes
+131294,city_104,Male,Has relevent experience,Grade 3,Graduate,Yes,14,2,,1-10,No
+131385,city_99,Male,Has relevent experience,Grade 3,Graduate,Yes,15,1,,100-500,Yes
+131412,city_138,Male,No relevent experience,Grade 3,Masters,No,9,1,,50-99,Yes
+131430,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,10,2,,10000+,No
+131501,city_136,Male,Has relevent experience,Grade 3,Masters,No,8,never,,1-10,Yes
+131578,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,9,2,,500-999,Yes
+131594,city_16,,No relevent experience,Grade 3,Graduate,Yes,7,never,,,Yes
+131655,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,3,,50-99,No
+131750,city_21,Female,Has relevent experience,Grade 2,Graduate,No,5,1,,1000-4999,Yes
+131833,city_116,,Has relevent experience,Grade 3,Masters,Yes,14,1,,,Yes
+131903,city_61,Male,Has relevent experience,Grade 2,Graduate,Yes,12,1,,1000-4999,Yes
+131939,city_28,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,50-99,Yes
+132025,city_149,Male,No relevent experience,Grade 2,Primary School,Yes,4,1,,<10,Yes
+132035,city_103,,No relevent experience,Grade 1,Graduate,Yes,<1,>4,,,Yes
+132067,city_149,Male,No relevent experience,Grade 2,High School,Yes,2,1,,,No
+132074,city_16,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,10000+,Yes
+132115,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,13,3,,50-99,No
+132209,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,9,2,,50-99,Yes
+132285,city_103,Female,Has relevent experience,Grade 2,Graduate,Yes,13,3,,10000+,No
+132372,city_101,,Has relevent experience,Grade 1,Graduate,Yes,6,>4,,1-10,Yes
+132433,city_162,Male,Has relevent experience,Grade 1,Graduate,Yes,14,3,,50-99,Yes
+132434,city_104,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,2,,50-99,Yes
+132452,city_136,Male,No relevent experience,Grade 3,Masters,Yes,4,1,,10000+,Yes
+132539,city_160,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,2,,,Yes
+132603,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,1,1,,,Yes
+132629,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,6,never,,,Yes
+132665,city_21,,Has relevent experience,Grade 3,Masters,Yes,4,,,100-500,Yes
+132680,city_65,Male,No relevent experience,Grade 1,Graduate,Yes,3,2,,1-10,Yes
+132696,city_21,Male,Has relevent experience,Grade 2,Masters,Yes,8,2,,,Yes
+132763,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,16,1,,<10,Yes
+132803,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,7,1,,<10,Yes
+132810,city_16,,No relevent experience,Grade 3,Phd,Yes,1,1,,10000+,Yes
+132820,city_67,Male,No relevent experience,Grade 1,Graduate,Yes,10,1,,,Yes
+132919,city_142,,Has relevent experience,Grade 1,Masters,No,14,4,,1-10,No
+132948,city_21,,Has relevent experience,Grade 2,Graduate,Yes,7,1,,50-99,Yes
+132967,city_103,,Has relevent experience,Grade 3,Masters,Yes,16,>4,,10000+,Yes
+133061,city_103,,Has relevent experience,Grade 3,Graduate,Yes,19,>4,,100-500,Yes
+133068,city_103,,Has relevent experience,Grade 2,Masters,No,>20,>4,,,Yes
+133097,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,11,1,,10000+,Yes
+133175,city_115,Male,No relevent experience,Grade 2,Masters,Yes,20,>4,,50-99,Yes
+133235,city_21,,No relevent experience,Grade 1,Graduate,Yes,15,>4,,10000+,No
+133302,city_25,Male,Has relevent experience,Grade 2,Masters,Yes,4,2,,500-999,Yes
+133401,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,2,2,,100-500,Yes
+133453,city_21,,Has relevent experience,Grade 2,Graduate,Yes,3,1,,50-99,Yes
+133473,city_16,Male,Has relevent experience,Grade 1,Masters,Yes,>20,2,,50-99,Yes
+133556,city_103,Male,Has relevent experience,Grade 2,Graduate,No,>20,>4,,10000+,Yes
+133577,city_104,Male,Has relevent experience,Grade 2,Graduate,No,9,1,,1-10,Yes
+133664,city_21,Male,No relevent experience,Grade 2,Graduate,No,2,1,,1-10,Yes
+133740,city_57,Male,No relevent experience,Grade 2,Masters,Yes,8,4,,,Yes
+133771,city_114,Male,Has relevent experience,Grade 1,Graduate,No,10,2,,<10,Yes
+133848,city_21,Male,Has relevent experience,Grade 3,Graduate,No,5,1,,<10,Yes
+133909,city_14,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,<10,Yes
+133940,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,17,1,,100-500,No
+134037,city_114,Male,No relevent experience,Grade 3,High School,Yes,7,>4,,<10,No
+134048,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,4,never,,,Yes
+134064,city_103,Male,Has relevent experience,Grade 1,Graduate,No,6,2,,50-99,Yes
+134148,city_103,,No relevent experience,Grade 2,Graduate,Yes,3,2,,1000-4999,Yes
+134161,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,10,1,,10000+,Yes
+134232,city_16,Male,No relevent experience,Grade 3,Masters,Yes,5,3,,,No
+134306,city_16,Male,Has relevent experience,Grade 1,Graduate,Yes,11,4,,,Yes
+134405,city_11,,Has relevent experience,Grade 1,Graduate,Yes,7,>4,,50-99,Yes
+134450,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,,Yes
+134517,city_50,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,No
+134601,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,5,1,,,No
+134603,city_23,Male,Has relevent experience,Grade 3,High School,Yes,4,1,,100-500,No
+134629,city_10,Male,Has relevent experience,Grade 2,Graduate,Yes,8,1,,1-10,Yes
+134664,city_98,Male,Has relevent experience,Grade 1,Masters,No,15,2,,50-99,Yes
+134674,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,500-999,No
+134743,city_149,Female,No relevent experience,Grade 3,Graduate,Yes,4,1,,50-99,No
+134750,city_71,Male,Has relevent experience,Grade 3,Graduate,Yes,5,2,,50-99,Yes
+134833,city_128,Male,Has relevent experience,Grade 3,Graduate,Yes,9,>4,,50-99,Yes
+134854,city_21,Male,No relevent experience,Grade 2,Masters,Yes,3,1,,,Yes
+134887,city_114,Male,Has relevent experience,Grade 1,Masters,Yes,18,2,,1000-4999,Yes
+134925,city_114,Female,No relevent experience,Grade 1,High School,Yes,16,2,,1000-4999,Yes
+134970,city_103,Male,No relevent experience,Grade 3,,Yes,4,never,,,No
+135058,city_27,Male,Has relevent experience,Grade 3,Graduate,Yes,9,2,,<10,Yes
+135139,city_102,,No relevent experience,Grade 3,Graduate,Yes,4,never,,,Yes
+135182,city_73,,Has relevent experience,Grade 2,Graduate,Yes,7,1,,10000+,Yes
+135204,city_16,,No relevent experience,Grade 3,Graduate,Yes,3,1,,<10,Yes
+135266,city_67,Male,No relevent experience,Grade 2,Graduate,Yes,16,>4,,,No
+135300,city_27,Male,Has relevent experience,Grade 3,Graduate,Yes,9,1,,100-500,Yes
+135319,city_173,Male,Has relevent experience,Grade 3,High School,Yes,<1,1,,1-10,Yes
+135325,city_102,Male,Has relevent experience,Grade 2,Masters,Yes,11,2,,,No
+135416,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,3,1,,1-10,No
+135484,city_75,Male,Has relevent experience,Grade 3,Phd,Yes,>20,>4,,,Yes
+135493,city_16,Male,Has relevent experience,Grade 2,Phd,Yes,16,>4,,5000-9999,Yes
+135575,city_104,,No relevent experience,Grade 3,High School,Yes,5,,,100-500,Yes
+135663,city_33,Male,No relevent experience,Grade 3,Graduate,Yes,4,2,,,No
+135674,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,<1,1,,100-500,No
+135747,city_103,Female,No relevent experience,Grade 1,Graduate,No,>20,4,,10000+,Yes
+135802,city_21,Male,No relevent experience,Grade 3,High School,Yes,<1,never,,,No
+135831,city_16,Male,No relevent experience,Grade 1,Graduate,Yes,8,1,,1000-4999,Yes
+135849,city_61,Male,Has relevent experience,Grade 3,Graduate,Yes,16,1,,1000-4999,Yes
+135893,city_103,Male,Has relevent experience,Grade 2,Phd,Yes,20,3,,10000+,No
+135980,city_103,Male,Has relevent experience,Grade 2,Graduate,No,3,3,,1000-4999,Yes
+136039,city_16,Male,No relevent experience,Grade 1,Graduate,Yes,17,>4,,10000+,Yes
+136092,city_21,Male,No relevent experience,Grade 2,High School,Yes,4,never,,,Yes
+136136,city_103,Female,No relevent experience,Grade 1,Graduate,No,2,1,,<10,Yes
+136192,city_103,,No relevent experience,Grade 3,High School,Yes,<1,never,,,No
+136228,city_103,,No relevent experience,Grade 3,High School,Yes,4,2,,5000-9999,No
+136314,city_16,Male,Has relevent experience,Grade 2,Graduate,No,4,3,,50-99,Yes
+136413,city_21,,Has relevent experience,Grade 1,,Yes,2,,,1-10,Yes
+136512,city_79,,Has relevent experience,Grade 2,Masters,Yes,11,1,,,Yes
+136575,city_91,Male,Has relevent experience,Grade 3,High School,Yes,17,1,,50-99,Yes
+136597,city_16,,Has relevent experience,Grade 1,Graduate,Yes,>20,3,,50-99,Yes
+136607,city_21,,Has relevent experience,Grade 2,Graduate,Yes,11,never,,,Yes
+136662,city_21,,Has relevent experience,Grade 3,Graduate,Yes,5,2,,100-500,Yes
+136754,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,5,3,,100-500,No
+136796,city_21,,No relevent experience,Grade 3,Graduate,No,1,1,,10000+,Yes
+136866,city_160,,No relevent experience,Grade 2,High School,Yes,1,1,,500-999,Yes
+136934,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,11,2,,100-500,No
+136991,city_33,Male,Has relevent experience,Grade 3,Masters,Yes,9,1,,,Yes
+137079,city_16,Male,Has relevent experience,Grade 3,Masters,No,10,1,,50-99,Yes
+137137,city_159,Male,Has relevent experience,Grade 2,Graduate,Yes,10,2,,,No
+137229,city_103,,Has relevent experience,Grade 3,Graduate,Yes,16,3,,1000-4999,Yes
+137292,city_103,,Has relevent experience,Grade 2,Graduate,Yes,9,3,,1000-4999,No
+137311,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,1-10,Yes
+137364,city_105,,Has relevent experience,Grade 3,Graduate,No,3,1,,50-99,Yes
+137410,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,10000+,Yes
+137476,city_53,Male,No relevent experience,Grade 3,High School,Yes,3,1,,,No
+137501,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,5,1,,10000+,No
+137527,city_175,Male,No relevent experience,Grade 2,High School,Yes,2,1,,<10,Yes
+137583,city_103,Male,Has relevent experience,Grade 3,Graduate,No,5,>4,,10000+,Yes
+137658,city_9,Male,Has relevent experience,Grade 3,,Yes,19,2,,1-10,Yes
+137754,city_103,,No relevent experience,Grade 3,High School,Yes,5,1,,,Yes
+137840,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,11,1,,,Yes
+137897,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,7,1,,1000-4999,Yes
+137948,city_21,,Has relevent experience,Grade 2,Graduate,Yes,9,1,,,Yes
+137999,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,10,1,,10000+,No
+138029,city_128,Male,Has relevent experience,Grade 3,Masters,Yes,16,>4,,5000-9999,No
+138058,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,3,1,,,Yes
+138077,city_101,,Has relevent experience,Grade 3,Graduate,Yes,5,,,500-999,Yes
+138168,city_21,,No relevent experience,Grade 3,Graduate,Yes,4,2,,1000-4999,No
+138169,city_103,,Has relevent experience,Grade 3,Graduate,Yes,10,2,,100-500,No
+138188,city_21,Male,Has relevent experience,Grade 3,Masters,Yes,16,1,,1000-4999,No
+138210,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,6,1,,,No
+138289,city_26,Other,Has relevent experience,Grade 2,High School,Yes,5,1,,100-500,Yes
+138355,city_102,Male,Has relevent experience,Grade 2,Graduate,Yes,16,1,,100-500,Yes
+138370,city_114,,No relevent experience,Grade 2,High School,Yes,20,never,,,No
+138443,city_160,Male,Has relevent experience,Grade 3,High School,Yes,>20,>4,,1-10,Yes
+138467,city_114,Female,Has relevent experience,Grade 3,Primary School,Yes,>20,>4,,1-10,No
+138507,city_21,,Has relevent experience,Grade 3,Graduate,Yes,1,1,,100-500,Yes
+138520,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,10,3,,,Yes
+138604,city_136,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,,No
+138608,city_21,,Has relevent experience,Grade 1,Masters,Yes,8,1,,50-99,No
+138681,city_65,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,1-10,Yes
+138768,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,3,2,,100-500,Yes
+138839,city_67,Male,Has relevent experience,Grade 3,Masters,Yes,16,2,,100-500,Yes
+138876,city_103,Male,No relevent experience,Grade 1,Masters,Yes,>20,2,,10000+,Yes
+138903,city_160,Other,No relevent experience,Grade 3,Graduate,Yes,<1,never,,,Yes
+138972,city_21,,Has relevent experience,Grade 3,Graduate,No,8,1,,100-500,Yes
+139004,city_134,,No relevent experience,Grade 3,Primary School,Yes,6,never,,,No
+139065,city_67,Male,Has relevent experience,Grade 3,Masters,Yes,5,1,,10000+,Yes
+139136,city_11,Male,Has relevent experience,Grade 3,Masters,Yes,9,2,,,No
+139226,city_57,Male,No relevent experience,Grade 3,Masters,Yes,6,>4,,<10,Yes
+139235,city_21,Male,Has relevent experience,Grade 2,Masters,Yes,2,never,,50-99,Yes
+139310,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,10000+,Yes
+139395,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,18,1,,100-500,Yes
+139428,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,,Yes
+139525,city_26,Male,Has relevent experience,Grade 2,Graduate,Yes,11,2,,<10,Yes
+139530,city_77,Male,No relevent experience,Grade 2,Graduate,No,6,1,,,Yes
+139601,city_104,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,,Yes
+139701,city_104,Male,No relevent experience,Grade 3,High School,Yes,10,3,,1-10,No
+139765,city_160,Male,Has relevent experience,Grade 1,Graduate,No,17,1,,1-10,Yes
+139813,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,18,1,,50-99,Yes
+139841,city_65,Male,No relevent experience,Grade 3,Graduate,Yes,4,1,,,Yes
+139936,city_103,,No relevent experience,Grade 1,High School,Yes,3,never,,,Yes
+139990,city_104,Male,No relevent experience,Grade 3,Masters,Yes,3,1,,,Yes
+139999,city_1,Male,Has relevent experience,Grade 3,Graduate,Yes,5,2,,50-99,Yes
+140034,city_11,,Has relevent experience,Grade 3,Graduate,Yes,8,1,,<10,Yes
+140109,city_70,Male,Has relevent experience,Grade 2,Graduate,No,4,1,,10000+,Yes
+140185,city_16,Male,Has relevent experience,Grade 3,High School,Yes,4,1,,1-10,Yes
+140251,city_123,Female,Has relevent experience,Grade 3,Graduate,Yes,4,2,,50-99,No
+140318,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,<1,never,,,No
+140332,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,2,,100-500,Yes
+140391,city_114,Male,No relevent experience,Grade 2,Masters,Yes,8,1,,100-500,Yes
+140421,city_103,Male,Has relevent experience,Grade 1,Phd,Yes,>20,1,,50-99,Yes
+140497,city_11,Male,No relevent experience,Grade 3,High School,Yes,4,never,,,No
+140513,city_103,Male,Has relevent experience,Grade 1,Graduate,No,>20,>4,,1000-4999,Yes
+140598,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,10000+,Yes
+140686,city_16,Male,Has relevent experience,Grade 3,High School,Yes,8,2,,,Yes
+140757,city_116,Male,Has relevent experience,Grade 1,Graduate,Yes,8,1,,100-500,Yes
+140784,city_89,,Has relevent experience,Grade 3,Graduate,No,>20,>4,,5000-9999,No
+140868,city_136,,No relevent experience,Grade 1,Graduate,Yes,4,,,,No
+140951,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,3,1,,50-99,Yes
+141003,city_98,Male,Has relevent experience,Grade 3,Graduate,Yes,11,1,,50-99,No
+141041,city_21,Male,No relevent experience,Grade 1,High School,Yes,2,never,,,Yes
+141073,city_114,Male,No relevent experience,Grade 3,Phd,No,10,>4,,500-999,Yes
+141087,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,10,1,,100-500,Yes
+141099,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,3,1,,10000+,Yes
+141107,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,>20,4,,1000-4999,Yes
+141194,city_175,Male,No relevent experience,Grade 2,Graduate,Yes,6,1,,100-500,Yes
+141283,city_67,,Has relevent experience,Grade 3,Graduate,Yes,12,1,,,Yes
+141320,city_73,,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,1-10,Yes
+141370,city_176,Female,No relevent experience,Grade 1,Graduate,Yes,4,1,,,Yes
+141428,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,3,,,Yes
+141508,city_61,,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,10000+,Yes
+141512,city_46,Male,Has relevent experience,Grade 3,Graduate,Yes,4,1,,1-10,Yes
+141587,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,16,>4,,100-500,Yes
+141629,city_134,,No relevent experience,Grade 2,High School,Yes,4,never,,,No
+141639,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,18,1,,100-500,Yes
+141678,city_114,Male,Has relevent experience,Grade 1,High School,No,5,1,,1000-4999,Yes
+141683,city_16,,Has relevent experience,Grade 1,Graduate,Yes,6,1,,,Yes
+141727,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,13,>4,,1000-4999,No
+141826,city_103,Male,Has relevent experience,Grade 3,Phd,Yes,9,1,,10000+,Yes
+141861,city_28,Male,Has relevent experience,Grade 2,Graduate,Yes,11,>4,,1000-4999,Yes
+141892,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,9,1,,100-500,No
+141971,city_36,Male,Has relevent experience,Grade 2,Masters,Yes,5,1,,<10,Yes
+142046,city_9,,Has relevent experience,Grade 3,Graduate,Yes,6,2,,50-99,Yes
+142138,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,Yes
+142200,city_138,,Has relevent experience,Grade 2,Graduate,Yes,12,>4,,<10,Yes
+142241,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,13,1,,100-500,Yes
+142331,city_16,Male,No relevent experience,Grade 3,High School,Yes,4,1,,,No
+142355,city_73,Male,No relevent experience,Grade 1,Graduate,Yes,7,never,,,Yes
+142385,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,13,never,,50-99,No
+142405,city_11,Male,Has relevent experience,Grade 2,Graduate,Yes,3,1,,100-500,Yes
+142422,city_99,Male,Has relevent experience,Grade 2,Graduate,No,>20,>4,,50-99,No
+142477,city_21,Male,Has relevent experience,Grade 2,High School,Yes,2,never,,,No
+142488,city_71,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,4,,50-99,No
+142517,city_150,Male,Has relevent experience,Grade 3,Masters,No,>20,>4,,1000-4999,Yes
+142598,city_28,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,50-99,Yes
+142674,city_123,Male,No relevent experience,Grade 2,Graduate,Yes,10,never,,,No
+142772,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,9,never,,100-500,Yes
+142828,city_77,,Has relevent experience,Grade 2,Graduate,Yes,<1,1,,100-500,No
+142919,city_101,Female,Has relevent experience,Grade 2,Graduate,Yes,7,1,,50-99,Yes
+142970,city_83,Male,Has relevent experience,Grade 3,Graduate,Yes,18,>4,,100-500,Yes
+143000,city_16,,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,1-10,Yes
+143065,city_115,,No relevent experience,Grade 1,Masters,Yes,<1,1,,,Yes
+143148,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,100-500,Yes
+143206,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,never,,1000-4999,Yes
+143248,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,>20,3,,,No
+143283,city_104,,Has relevent experience,Grade 3,Graduate,Yes,1,1,,100-500,Yes
+143335,city_90,Male,Has relevent experience,Grade 2,Graduate,No,7,1,,,No
+143378,city_64,Male,Has relevent experience,Grade 1,Graduate,Yes,9,4,,100-500,Yes
+143452,city_123,Male,No relevent experience,Grade 2,Graduate,Yes,7,2,,,No
+143482,city_21,,Has relevent experience,Grade 3,Graduate,Yes,6,2,,50-99,No
+143549,city_61,Male,Has relevent experience,Grade 3,Phd,Yes,>20,3,,100-500,Yes
+143558,city_114,Male,No relevent experience,Grade 2,Graduate,Yes,2,never,,1000-4999,No
+143583,city_16,Female,No relevent experience,Grade 1,Masters,Yes,6,4,,10000+,No
+143614,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1-10,Yes
+143683,city_16,Male,No relevent experience,Grade 2,Phd,Yes,>20,1,,1000-4999,Yes
+143762,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,,Yes
+143835,city_114,,No relevent experience,Grade 2,,Yes,11,never,,100-500,Yes
+143849,city_21,Male,Has relevent experience,Grade 3,Masters,No,13,2,,1-10,Yes
+143862,city_41,Male,Has relevent experience,Grade 2,Graduate,Yes,8,3,,1-10,Yes
+143890,city_160,Male,Has relevent experience,Grade 2,Masters,Yes,17,1,,,Yes
+143958,city_103,,No relevent experience,Grade 3,Masters,Yes,4,1,,,Yes
+144050,city_21,,Has relevent experience,Grade 2,Graduate,Yes,5,1,,100-500,Yes
+144111,city_21,,Has relevent experience,Grade 2,Graduate,Yes,4,1,,100-500,No
+144171,city_36,Male,Has relevent experience,Grade 2,Masters,Yes,15,3,,50-99,Yes
+144210,city_61,Female,Has relevent experience,Grade 2,Masters,Yes,,1,,50-99,No
+144259,city_11,Male,Has relevent experience,Grade 2,Graduate,Yes,4,1,,50-99,No
+144346,city_75,Male,Has relevent experience,Grade 2,Graduate,Yes,13,4,,50-99,Yes
+144435,city_103,,No relevent experience,Grade 3,High School,Yes,3,never,,,Yes
+144468,city_103,,Has relevent experience,Grade 3,Graduate,Yes,14,3,,100-500,Yes
+144555,city_103,,Has relevent experience,Grade 3,Graduate,No,>20,>4,,,Yes
+144574,city_21,Male,No relevent experience,Grade 2,High School,No,<1,never,,,Yes
+144627,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,50-99,Yes
+144665,city_103,,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,Yes
+144690,city_21,,No relevent experience,Grade 1,Graduate,No,4,never,,5000-9999,Yes
+144695,city_103,,Has relevent experience,Grade 3,Graduate,Yes,5,2,,100-500,Yes
+144780,city_16,Male,Has relevent experience,Grade 2,Graduate,No,>20,1,,100-500,Yes
+144811,city_100,Male,No relevent experience,Grade 2,Graduate,Yes,9,1,,,Yes
+144821,city_21,,No relevent experience,Grade 3,Graduate,Yes,<1,never,,,Yes
+144887,city_10,Male,Has relevent experience,Grade 3,Masters,No,7,>4,,,No
+144911,city_21,,Has relevent experience,Grade 2,Masters,Yes,3,2,,50-99,No
+144993,city_90,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,2,,50-99,Yes
+145073,city_21,,Has relevent experience,Grade 3,Graduate,Yes,7,>4,,50-99,No
+145091,city_114,Male,No relevent experience,Grade 2,Masters,No,>20,1,,,Yes
+145126,city_152,Male,Has relevent experience,Grade 1,Graduate,Yes,16,>4,,500-999,Yes
+145223,city_54,Male,Has relevent experience,Grade 1,Masters,Yes,11,1,,50-99,Yes
+145261,city_11,Male,No relevent experience,Grade 3,Graduate,Yes,<1,1,,1-10,Yes
+145306,city_21,,No relevent experience,Grade 3,High School,Yes,3,never,,,Yes
+145374,city_114,,Has relevent experience,Grade 1,Masters,Yes,9,1,,1-10,Yes
+145400,city_114,Male,Has relevent experience,Grade 3,High School,Yes,12,>4,,1-10,No
+145462,city_162,Male,Has relevent experience,Grade 1,Graduate,Yes,6,4,,1-10,Yes
+145470,city_13,Male,Has relevent experience,Grade 3,High School,Yes,6,2,,500-999,Yes
+145502,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,13,2,,100-500,Yes
+145510,city_73,Male,Has relevent experience,Grade 3,Masters,Yes,8,1,,50-99,Yes
+145530,city_173,Male,No relevent experience,Grade 1,Masters,No,6,2,,,Yes
+145606,city_21,Female,Has relevent experience,Grade 2,Graduate,Yes,<1,1,,100-500,Yes
+145608,city_74,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,<10,Yes
+145700,city_104,,Has relevent experience,Grade 2,Graduate,Yes,3,never,,<10,Yes
+145744,city_24,Male,No relevent experience,Grade 2,Masters,Yes,>20,>4,,<10,Yes
+145844,city_61,Male,Has relevent experience,Grade 1,Graduate,Yes,5,1,,,Yes
+145905,city_61,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,1,,,No
+145979,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,11,3,,<10,Yes
+145999,city_80,Male,No relevent experience,Grade 2,Graduate,Yes,5,1,,,Yes
+146015,city_16,,Has relevent experience,Grade 1,Graduate,Yes,5,1,,,Yes
+146082,city_97,,No relevent experience,Grade 3,Graduate,Yes,3,3,,,Yes
+146131,city_46,Female,Has relevent experience,Grade 3,Masters,Yes,9,2,,100-500,No
+146151,city_103,,No relevent experience,Grade 1,Masters,Yes,>20,3,,10000+,Yes
+146229,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,4,never,,,Yes
+146329,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,5,1,,,No
+146390,city_46,Male,No relevent experience,Grade 2,Graduate,Yes,8,1,,10000+,No
+146462,city_21,Male,Has relevent experience,Grade 1,Masters,No,10,1,,,Yes
+146503,city_114,,No relevent experience,Grade 2,Masters,Yes,2,2,,100-500,No
+146600,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,No
+146620,city_65,Male,Has relevent experience,Grade 2,Graduate,Yes,6,3,,50-99,Yes
+146709,city_16,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,,Yes
+146793,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,,Yes
+146797,city_103,Other,Has relevent experience,Grade 1,Graduate,Yes,9,2,,50-99,Yes
+146866,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,14,1,,10000+,Yes
+146897,city_102,Male,Has relevent experience,Grade 1,Masters,Yes,17,>4,,1-10,Yes
+146967,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,100-500,Yes
+146972,city_138,Male,No relevent experience,Grade 3,High School,Yes,2,never,,,No
+147009,city_21,Male,Has relevent experience,Grade 2,High School,Yes,6,never,,1000-4999,No
+147041,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,1-10,Yes
+147119,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,7,>4,,5000-9999,Yes
+147162,city_16,Male,No relevent experience,Grade 2,High School,Yes,5,never,,,No
+147182,city_57,Male,Has relevent experience,Grade 1,Masters,No,13,1,,10000+,Yes
+147260,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,7,4,,,Yes
+147332,city_103,Male,Has relevent experience,Grade 3,Graduate,No,16,1,,50-99,Yes
+147395,city_100,,No relevent experience,Grade 2,Graduate,Yes,5,never,,,Yes
+147491,city_64,Male,No relevent experience,Grade 2,Graduate,Yes,2,1,,,Yes
+147560,city_16,Male,No relevent experience,Grade 2,Primary School,Yes,2,never,,,No
+147639,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,11,1,,,No
+147643,city_36,,Has relevent experience,Grade 3,Graduate,Yes,8,>4,,100-500,Yes
+147651,city_123,Male,No relevent experience,Grade 3,Masters,Yes,14,>4,,,No
+147674,city_114,Male,Has relevent experience,Grade 3,High School,Yes,8,never,,<10,No
+147769,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,100-500,Yes
+147809,city_73,,Has relevent experience,Grade 3,Masters,Yes,5,1,,5000-9999,Yes
+147859,city_21,Male,No relevent experience,Grade 3,High School,Yes,2,never,,,No
+147867,city_103,Male,No relevent experience,Grade 3,Masters,Yes,5,1,,5000-9999,No
+147876,city_103,Male,No relevent experience,Grade 1,High School,Yes,5,1,,10000+,Yes
+147970,city_70,Male,Has relevent experience,Grade 3,Graduate,Yes,9,2,,<10,Yes
+147982,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,15,1,,50-99,Yes
+148009,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,14,1,,100-500,No
+148103,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,4,never,,1-10,Yes
+148196,city_103,Male,Has relevent experience,Grade 3,Graduate,No,>20,1,,100-500,Yes
+148230,city_160,Male,No relevent experience,Grade 3,Graduate,Yes,>20,>4,,500-999,No
+148286,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,11,1,,1000-4999,Yes
+148302,city_28,,Has relevent experience,Grade 2,Graduate,Yes,5,>4,,<10,Yes
+148310,city_67,Male,No relevent experience,Grade 2,Graduate,Yes,6,1,,,Yes
+148355,city_21,Male,Has relevent experience,Grade 3,Graduate,No,2,2,,100-500,No
+148440,city_103,Female,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,,No
+148467,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,14,1,,50-99,Yes
+148565,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,3,,100-500,No
+148567,city_99,Male,Has relevent experience,Grade 2,Graduate,No,>20,>4,,500-999,No
+148579,city_11,,No relevent experience,Grade 2,Masters,Yes,<1,1,,,Yes
+148610,city_41,Male,Has relevent experience,Grade 1,Graduate,No,10,>4,,1000-4999,Yes
+148698,city_90,Male,No relevent experience,Grade 1,,Yes,6,4,,,Yes
+148768,city_75,Male,No relevent experience,Grade 2,Graduate,Yes,9,1,,1-10,No
+148840,city_115,Female,Has relevent experience,Grade 2,Graduate,Yes,3,1,,50-99,Yes
+148855,city_103,Male,Has relevent experience,Grade 1,High School,Yes,9,never,,,Yes
+148921,city_136,Male,No relevent experience,Grade 3,Masters,Yes,8,4,,5000-9999,No
+148949,city_21,,Has relevent experience,Grade 2,Graduate,Yes,<1,never,,50-99,Yes
+148952,city_114,,Has relevent experience,Grade 3,Graduate,Yes,13,>4,,,Yes
+149006,city_21,,Has relevent experience,Grade 3,Graduate,Yes,2,2,,50-99,Yes
+149010,city_99,Male,Has relevent experience,Grade 2,Graduate,Yes,7,>4,,1-10,Yes
+149068,city_103,Male,No relevent experience,Grade 1,High School,Yes,2,1,,,No
+149098,city_160,Male,Has relevent experience,Grade 1,Graduate,Yes,17,>4,,1-10,Yes
+149134,city_16,Male,Has relevent experience,Grade 1,Graduate,Yes,6,2,,50-99,No
+149179,city_61,Male,Has relevent experience,Grade 3,Masters,No,>20,>4,,1-10,Yes
+149204,city_103,,Has relevent experience,Grade 2,Graduate,Yes,13,1,,1000-4999,Yes
+149226,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,2,,,Yes
+149297,city_48,,Has relevent experience,Grade 3,Graduate,Yes,2,never,,,No
+149355,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,13,3,,,Yes
+149371,city_67,,Has relevent experience,Grade 2,Masters,Yes,11,1,,,No
+149463,city_160,Male,Has relevent experience,Grade 3,Masters,Yes,>20,2,,<10,Yes
+149560,city_114,Male,No relevent experience,Grade 2,Graduate,Yes,11,>4,,,Yes
+149622,city_46,Male,No relevent experience,Grade 2,Graduate,No,<1,never,,,No
+149704,city_21,Female,Has relevent experience,Grade 2,Graduate,No,5,1,,10000+,Yes
+149766,city_40,Male,No relevent experience,Grade 2,Graduate,Yes,4,2,,100-500,Yes
+149801,city_21,Female,Has relevent experience,Grade 3,Graduate,Yes,3,2,,10000+,No
+149834,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,8,3,,100-500,No
+149837,city_75,Male,Has relevent experience,Grade 1,Graduate,Yes,6,>4,,10000+,Yes
+149904,city_159,Male,Has relevent experience,Grade 3,Graduate,No,12,4,,500-999,Yes
+149908,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,8,1,,10000+,Yes
+149990,city_75,Male,Has relevent experience,Grade 2,Phd,Yes,>20,2,,10000+,No
+149999,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,6,1,,100-500,No
+150011,city_71,Male,Has relevent experience,Grade 1,Graduate,Yes,11,1,,<10,Yes
+150095,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,6,2,,500-999,No
+150178,city_74,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,1-10,Yes
+150227,city_21,Male,Has relevent experience,Grade 2,Graduate,No,3,2,,10000+,Yes
+150262,city_138,Male,No relevent experience,Grade 3,Masters,Yes,>20,2,,<10,No
+150280,city_21,,Has relevent experience,Grade 1,Graduate,Yes,7,>4,,50-99,Yes
+150283,city_67,Male,No relevent experience,Grade 2,High School,Yes,2,1,,50-99,Yes
+150342,city_103,Female,Has relevent experience,Grade 2,Graduate,Yes,7,2,,1000-4999,Yes
+150375,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,3,never,,,No
+150436,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,1-10,No
+150456,city_103,Male,Has relevent experience,Grade 3,Primary School,Yes,19,>4,,50-99,Yes
+150534,city_50,Male,Has relevent experience,Grade 3,Masters,No,16,>4,,10000+,Yes
+150628,city_23,,Has relevent experience,Grade 3,Masters,Yes,18,3,,50-99,No
+150648,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,,No
+150672,city_11,,No relevent experience,Grade 3,Graduate,Yes,5,1,,,Yes
+150721,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,5,never,,10000+,Yes
+150814,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,>20,1,,500-999,Yes
+150861,city_71,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,,Yes
+150960,city_71,,No relevent experience,Grade 1,Graduate,Yes,3,1,,1-10,No
+150972,city_21,Male,Has relevent experience,Grade 2,Masters,Yes,13,4,,1000-4999,No
+151027,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,50-99,Yes
+151084,city_114,Female,Has relevent experience,Grade 1,Graduate,Yes,9,1,,100-500,Yes
+151119,city_103,Male,No relevent experience,Grade 2,Graduate,No,14,1,,,Yes
+151172,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,15,>4,,1000-4999,Yes
+151203,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,2,,1-10,No
+151228,city_158,Female,No relevent experience,Grade 1,Graduate,Yes,3,never,,,Yes
+151272,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,16,2,,50-99,Yes
+151363,city_11,Male,Has relevent experience,Grade 3,Graduate,Yes,2,1,,,No
+151461,city_103,,Has relevent experience,Grade 3,Phd,No,9,4,,10000+,Yes
+151513,city_46,Male,No relevent experience,Grade 3,High School,Yes,2,never,,,No
+151612,city_16,,Has relevent experience,Grade 1,Masters,No,>20,,,100-500,Yes
+151699,city_98,Male,Has relevent experience,Grade 2,Graduate,No,>20,>4,,5000-9999,Yes
+151738,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,10,1,,10000+,Yes
+151784,city_136,Male,Has relevent experience,Grade 2,High School,Yes,18,1,,10000+,Yes
+151866,city_75,Male,Has relevent experience,Grade 3,Graduate,Yes,9,never,,1000-4999,Yes
+151949,city_90,Male,Has relevent experience,Grade 2,Graduate,Yes,12,3,,<10,No
+152035,city_103,,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,<10,Yes
+152058,city_64,Female,Has relevent experience,Grade 1,Graduate,Yes,6,2,,500-999,No
+152122,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,4,1,,100-500,Yes
+152193,city_65,Male,Has relevent experience,Grade 3,Masters,Yes,14,1,,10000+,Yes
+152260,city_103,,Has relevent experience,Grade 2,Phd,Yes,>20,>4,,5000-9999,Yes
+152303,city_152,,No relevent experience,Grade 3,Graduate,No,4,never,,,Yes
+152347,city_158,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,50-99,Yes
+152363,city_21,,No relevent experience,Grade 1,Graduate,Yes,15,>4,,10000+,Yes
+152365,city_104,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,50-99,Yes
+152434,city_104,Male,No relevent experience,Grade 3,Masters,Yes,3,1,,,No
+152526,city_114,Male,Has relevent experience,Grade 3,High School,Yes,9,1,,,No
+152531,city_102,,No relevent experience,Grade 2,Graduate,Yes,2,2,,,Yes
+152533,city_65,Male,Has relevent experience,Grade 3,Graduate,Yes,2,1,,100-500,Yes
+152623,city_136,,Has relevent experience,Grade 3,Graduate,Yes,17,1,,,Yes
+152629,city_71,,Has relevent experience,Grade 1,Graduate,Yes,5,1,,,No
+152723,city_114,Male,Has relevent experience,Grade 3,Graduate,No,4,3,,100-500,Yes
+152738,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,6,>4,,,No
+152796,city_103,,No relevent experience,Grade 3,,Yes,11,>4,,<10,Yes
+152839,city_21,,Has relevent experience,Grade 3,Graduate,Yes,<1,,,<10,Yes
+152875,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,9,1,,100-500,Yes
+152959,city_126,Male,Has relevent experience,Grade 3,,Yes,<1,1,,<10,Yes
+152969,city_103,Male,Has relevent experience,Grade 2,Phd,Yes,4,1,,1000-4999,Yes
+153046,city_16,,Has relevent experience,Grade 3,Graduate,Yes,4,1,,100-500,Yes
+153114,city_103,,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1-10,Yes
+153169,city_21,,No relevent experience,Grade 2,Graduate,Yes,6,,,,Yes
+153179,city_103,,Has relevent experience,Grade 2,Graduate,Yes,3,1,,<10,No
+153240,city_21,,Has relevent experience,Grade 3,Graduate,Yes,7,1,,1000-4999,No
+153290,city_75,,Has relevent experience,Grade 3,Graduate,Yes,11,2,,<10,Yes
+153353,city_102,Male,No relevent experience,Grade 3,Masters,Yes,5,1,,500-999,Yes
+153442,city_65,Male,Has relevent experience,Grade 1,Masters,Yes,7,1,,,Yes
+153495,city_46,Male,Has relevent experience,Grade 3,Graduate,Yes,19,1,,10000+,Yes
+153533,city_103,Male,No relevent experience,Grade 3,High School,Yes,10,1,,<10,No
+153629,city_71,Male,Has relevent experience,Grade 1,Masters,Yes,>20,1,,10000+,No
+153659,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,9,>4,,5000-9999,No
+153686,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,50-99,Yes
+153756,city_98,Male,Has relevent experience,Grade 1,High School,Yes,4,1,,<10,Yes
+153784,city_21,,Has relevent experience,Grade 2,,Yes,6,1,,<10,No
+153833,city_21,,No relevent experience,Grade 3,High School,Yes,1,,,,No
+153888,city_103,,No relevent experience,Grade 3,Graduate,Yes,7,1,,,Yes
+153891,city_24,Male,Has relevent experience,Grade 3,Primary School,Yes,3,never,,,No
+153976,city_134,Male,No relevent experience,Grade 1,Primary School,Yes,3,never,,,Yes
+153982,city_26,Male,No relevent experience,Grade 2,High School,Yes,2,never,,,Yes
+154065,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,10,4,,10000+,Yes
+154082,city_123,Male,No relevent experience,Grade 2,Masters,Yes,4,never,,,Yes
+154177,city_9,Male,No relevent experience,Grade 2,Graduate,Yes,1,1,,,Yes
+154250,city_82,Female,Has relevent experience,Grade 2,Graduate,Yes,6,3,,1000-4999,No
+154305,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,5,3,,,No
+154364,city_69,Male,Has relevent experience,Grade 2,Graduate,Yes,16,2,,50-99,No
+154431,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,12,never,,1-10,Yes
+154453,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,14,>4,,10000+,Yes
+154468,city_102,Male,Has relevent experience,Grade 3,Masters,Yes,>20,3,,1000-4999,Yes
+154564,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,9,2,,100-500,No
+154618,city_21,Male,Has relevent experience,Grade 3,Masters,Yes,15,>4,,50-99,Yes
+154703,city_77,Male,Has relevent experience,Grade 2,Graduate,Yes,7,2,,1-10,Yes
+154769,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,12,4,,50-99,No
+154844,city_40,Male,Has relevent experience,Grade 2,Masters,Yes,>20,1,,10000+,Yes
+154927,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,10000+,No
+154963,city_136,Male,Has relevent experience,Grade 1,Masters,Yes,>20,1,,,No
+154974,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,10000+,Yes
+155074,city_46,Male,Has relevent experience,Grade 3,Graduate,Yes,11,3,,500-999,Yes
+155108,city_160,,No relevent experience,Grade 1,Graduate,Yes,6,3,,5000-9999,Yes
+155155,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,4,,<10,No
+155202,city_126,Male,Has relevent experience,Grade 3,Graduate,Yes,2,2,,,Yes
+155220,city_16,Male,Has relevent experience,Grade 1,Graduate,No,>20,>4,,10000+,Yes
+155311,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,5,1,,50-99,Yes
+155382,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,16,>4,,10000+,Yes
+155403,city_40,,No relevent experience,Grade 3,Masters,Yes,6,1,,,Yes
+155418,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,<1,2,,100-500,Yes
+155445,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,3,1,,50-99,Yes
+155451,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,18,4,,<10,No
+155531,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,6,>4,,10000+,No
+155572,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,6,1,,100-500,Yes
+155601,city_141,Male,No relevent experience,Grade 3,Masters,Yes,5,1,,100-500,Yes
+155666,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,7,1,,100-500,Yes
+155758,city_83,Male,Has relevent experience,Grade 2,Graduate,Yes,15,1,,50-99,No
+155793,city_43,Male,Has relevent experience,Grade 2,Graduate,Yes,6,2,,1000-4999,Yes
+155800,city_114,Male,Has relevent experience,Grade 3,High School,Yes,4,1,,10000+,Yes
+155861,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,4,1,,10000+,No
+155888,city_116,,Has relevent experience,Grade 2,Masters,Yes,13,1,,100-500,Yes
+155917,city_67,Male,Has relevent experience,Grade 2,Graduate,Yes,5,1,,50-99,Yes
+155998,city_75,,Has relevent experience,Grade 3,Masters,Yes,6,2,,10000+,No
+156018,city_21,Male,Has relevent experience,Grade 2,Masters,Yes,9,never,,5000-9999,Yes
+156032,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,5,4,,10000+,Yes
+156087,city_176,,No relevent experience,Grade 2,Primary School,Yes,<1,never,,,Yes
+156103,city_21,,No relevent experience,Grade 3,Graduate,Yes,4,never,,,Yes
+156118,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,50-99,Yes
+156194,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,15,>4,,<10,Yes
+156223,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,5,2,,100-500,Yes
+156270,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,12,1,,<10,No
+156331,city_67,Male,Has relevent experience,Grade 3,Graduate,Yes,6,1,,50-99,No
+156426,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,12,4,,100-500,Yes
+156498,city_11,,No relevent experience,Grade 3,Graduate,Yes,3,,,,No
+156522,city_103,Male,No relevent experience,Grade 1,Phd,Yes,15,>4,,100-500,Yes
+156537,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,9,3,,500-999,Yes
+156584,city_21,Male,Has relevent experience,Grade 3,Graduate,No,5,1,,100-500,No
+156638,city_90,Male,No relevent experience,Grade 3,Graduate,Yes,13,2,,<10,No
+156699,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,6,2,,50-99,Yes
+156740,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,<1,3,,1-10,Yes
+156795,city_21,,Has relevent experience,Grade 1,Masters,Yes,2,2,,,Yes
+156842,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,11,2,,10000+,Yes
+156913,city_116,,No relevent experience,Grade 2,Graduate,Yes,5,never,,,Yes
+156994,city_67,Male,No relevent experience,Grade 3,Primary School,Yes,7,never,,,No
+157019,city_16,Female,Has relevent experience,Grade 2,Graduate,Yes,3,1,,50-99,Yes
+157084,city_103,Male,No relevent experience,Grade 1,Graduate,Yes,7,4,,,Yes
+157168,city_160,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,1,,100-500,No
+157204,city_105,Female,Has relevent experience,Grade 2,Graduate,Yes,3,2,,100-500,Yes
+157246,city_160,,Has relevent experience,Grade 2,Graduate,Yes,8,2,,1000-4999,Yes
+157336,city_114,Male,No relevent experience,Grade 1,Graduate,Yes,8,1,,,Yes
+157391,city_67,Male,Has relevent experience,Grade 1,Masters,Yes,15,3,,100-500,No
+157423,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,1-10,Yes
+157514,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,16,3,,1000-4999,Yes
+157519,city_158,,Has relevent experience,Grade 3,Graduate,Yes,10,,,100-500,No
+157571,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,5,3,,,Yes
+157658,city_83,Male,No relevent experience,Grade 3,High School,Yes,6,1,,,No
+157737,city_106,Male,Has relevent experience,Grade 2,Masters,Yes,9,2,,,Yes
+157771,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,5,1,,500-999,Yes
+157793,city_103,Male,No relevent experience,Grade 3,Phd,Yes,18,1,,100-500,Yes
+157859,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,,Yes
+157866,city_103,,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,50-99,No
+157874,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,14,>4,,<10,No
+157887,city_74,,No relevent experience,Grade 1,Graduate,Yes,6,never,,,No
+157969,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,,Yes
+158033,city_114,,No relevent experience,Grade 2,High School,Yes,8,never,,,Yes
+158041,city_160,Female,No relevent experience,Grade 2,Phd,Yes,10,1,,,Yes
+158072,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,500-999,No
+158159,city_103,,Has relevent experience,Grade 1,Graduate,Yes,16,>4,,,No
+158219,city_16,,No relevent experience,Grade 2,Masters,Yes,<1,1,,5000-9999,Yes
+158315,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,9,3,,50-99,Yes
+158329,city_23,Female,No relevent experience,Grade 2,Graduate,Yes,3,2,,10000+,No
+158402,city_21,,No relevent experience,Grade 3,Graduate,Yes,2,never,,,No
+158464,city_159,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,1,,1-10,Yes
+158543,city_21,,Has relevent experience,Grade 3,Graduate,Yes,10,1,,,Yes
+158560,city_103,Male,No relevent experience,Grade 3,Masters,Yes,14,1,,50-99,Yes
+158601,city_21,,Has relevent experience,Grade 3,High School,Yes,6,1,,,Yes
+158631,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,11,>4,,1000-4999,No
+158680,city_89,,No relevent experience,Grade 2,High School,Yes,5,1,,,No
+158696,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,15,>4,,1000-4999,Yes
+158791,city_136,,Has relevent experience,Grade 3,Graduate,Yes,4,1,,50-99,No
+158807,city_13,Male,Has relevent experience,Grade 3,Masters,Yes,9,2,,100-500,Yes
+158814,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,50-99,Yes
+158831,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,5,1,,100-500,No
+158870,city_136,,Has relevent experience,Grade 1,Masters,Yes,4,1,,1-10,Yes
+158890,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,14,4,,100-500,No
+158979,city_21,,Has relevent experience,Grade 3,Masters,Yes,18,>4,,100-500,No
+158995,city_21,Female,Has relevent experience,Grade 2,Graduate,Yes,<1,1,,50-99,Yes
+159020,city_103,,Has relevent experience,Grade 2,Graduate,Yes,9,2,,100-500,No
+159079,city_46,Male,Has relevent experience,Grade 1,Graduate,Yes,3,2,,<10,Yes
+159093,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,,Yes
+159148,city_114,Male,No relevent experience,Grade 1,Graduate,Yes,14,1,,1-10,Yes
+159180,city_91,Male,Has relevent experience,Grade 2,Graduate,Yes,4,1,,50-99,No
+159236,city_67,,No relevent experience,Grade 3,High School,Yes,3,never,,,Yes
+159268,city_160,Female,Has relevent experience,Grade 2,Masters,Yes,11,2,,1000-4999,Yes
+159360,city_73,Male,Has relevent experience,Grade 2,Graduate,No,>20,1,,100-500,Yes
+159364,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,10000+,Yes
+159395,city_103,Male,Has relevent experience,Grade 3,Graduate,No,7,4,,1000-4999,Yes
+159409,city_114,,No relevent experience,Grade 2,High School,Yes,6,,,10000+,Yes
+159423,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,<1,1,,,Yes
+159466,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,10000+,Yes
+159476,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,3,2,,50-99,Yes
+159549,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,7,2,,5000-9999,Yes
+159576,city_21,Male,Has relevent experience,Grade 2,Graduate,No,3,never,,50-99,Yes
+159603,city_103,Male,No relevent experience,Grade 3,,Yes,4,never,,,No
+159678,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,3,,,Yes
+159684,city_160,Male,Has relevent experience,Grade 3,Masters,Yes,19,1,,,Yes
+159695,city_160,Male,Has relevent experience,Grade 2,,Yes,19,1,,<10,Yes
+159707,city_105,Male,Has relevent experience,Grade 2,Graduate,Yes,11,>4,,100-500,Yes
+159779,city_162,Male,Has relevent experience,Grade 2,Graduate,Yes,7,1,,50-99,No
+159806,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,4,,,No
+159833,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,13,>4,,50-99,Yes
+159874,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,10000+,Yes
+159913,city_136,,Has relevent experience,Grade 1,Masters,No,9,3,,50-99,Yes
+159926,city_115,Male,Has relevent experience,Grade 3,Masters,Yes,11,3,,1-10,No
+159978,city_28,,No relevent experience,Grade 3,High School,Yes,9,never,,,Yes
+160075,city_16,Male,No relevent experience,Grade 1,Graduate,Yes,16,1,,100-500,Yes
+160101,city_97,Male,Has relevent experience,Grade 3,Graduate,Yes,16,1,,500-999,No
+160199,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,2,1,,1000-4999,Yes
+160266,city_114,Male,Has relevent experience,Grade 3,Graduate,No,10,1,,<10,No
+160309,city_65,,Has relevent experience,Grade 1,Phd,Yes,17,>4,,50-99,No
+160350,city_103,Female,Has relevent experience,Grade 2,Graduate,Yes,9,>4,,100-500,Yes
+160399,city_103,,Has relevent experience,Grade 3,Masters,Yes,>20,3,,,No
+160443,city_61,Male,No relevent experience,Grade 3,High School,Yes,5,1,,1-10,No
+160492,city_45,Male,Has relevent experience,Grade 3,Graduate,Yes,5,never,,50-99,Yes
+160560,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,5,4,,1-10,No
+160640,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,15,2,,,Yes
+160692,city_114,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,100-500,Yes
+160733,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,16,4,,50-99,Yes
+160825,city_104,Male,Has relevent experience,Grade 1,Phd,Yes,>20,2,,50-99,Yes
+160895,city_160,Female,Has relevent experience,Grade 3,High School,Yes,4,1,,10000+,No
+160907,city_16,Male,No relevent experience,Grade 3,Graduate,Yes,>20,1,,,Yes
+160960,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,16,>4,,50-99,No
+161001,city_102,,Has relevent experience,Grade 2,Graduate,Yes,10,1,,100-500,Yes
+161068,city_133,Male,No relevent experience,Grade 2,Graduate,Yes,12,>4,,50-99,Yes
+161098,city_16,,Has relevent experience,Grade 2,Graduate,No,12,1,,100-500,Yes
+161152,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,>20,3,,100-500,Yes
+161243,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,<1,1,,<10,No
+161300,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,4,1,,500-999,Yes
+161307,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,16,1,,10000+,Yes
+161372,city_138,Male,Has relevent experience,Grade 1,Graduate,Yes,6,3,,1-10,Yes
+161399,city_128,Female,No relevent experience,Grade 3,Graduate,Yes,<1,never,,50-99,No
+161402,city_102,Male,Has relevent experience,Grade 3,Masters,Yes,14,3,,100-500,Yes
+161468,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,9,1,,100-500,Yes
+161538,city_114,Male,Has relevent experience,Grade 3,Masters,No,>20,2,,50-99,No
+161634,city_65,Male,Has relevent experience,Grade 2,Masters,Yes,7,1,,100-500,Yes
+161637,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,5000-9999,No
+161650,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,never,,,No
+161700,city_45,,No relevent experience,Grade 2,High School,Yes,3,never,,,Yes
+161727,city_98,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,100-500,Yes
+161796,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,7,2,,50-99,Yes
+161853,city_16,Male,Has relevent experience,Grade 3,Graduate,No,6,1,,100-500,Yes
+161901,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,16,>4,,50-99,Yes
+161970,city_103,,Has relevent experience,Grade 3,Graduate,Yes,14,4,,,Yes
+161991,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,>20,3,,10000+,Yes
+162058,city_104,Male,Has relevent experience,Grade 2,Masters,Yes,17,1,,100-500,Yes
+162079,city_46,Male,Has relevent experience,Grade 2,Masters,Yes,10,>4,,10000+,No
+162112,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,6,>4,,50-99,Yes
+162172,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,17,4,,50-99,Yes
+162216,city_160,Male,Has relevent experience,Grade 1,Graduate,No,6,1,,100-500,Yes
+162298,city_159,Male,No relevent experience,Grade 3,Graduate,Yes,16,4,,10000+,Yes
+162306,city_114,Male,No relevent experience,Grade 3,Masters,Yes,9,1,,5000-9999,No
+162376,city_16,Male,Has relevent experience,Grade 3,High School,Yes,19,1,,500-999,No
+162397,city_136,Male,No relevent experience,Grade 3,Graduate,Yes,1,1,,,Yes
+162465,city_21,,No relevent experience,Grade 3,Graduate,Yes,2,never,,,Yes
+162501,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,8,1,,<10,Yes
+162521,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,7,1,,1000-4999,Yes
+162523,city_21,Male,Has relevent experience,Grade 1,Masters,Yes,2,1,,10000+,Yes
+162576,city_103,Male,No relevent experience,Grade 3,High School,Yes,7,1,,1-10,No
+162649,city_167,,No relevent experience,Grade 3,Primary School,Yes,6,3,,<10,Yes
+162696,city_158,Male,Has relevent experience,Grade 2,Graduate,Yes,5,2,,50-99,Yes
+162779,city_160,Other,Has relevent experience,Grade 2,Graduate,Yes,8,1,,50-99,Yes
+162851,city_16,Female,Has relevent experience,Grade 2,Masters,Yes,10,1,,,Yes
+162901,city_104,,No relevent experience,Grade 3,,Yes,4,never,,,No
+162989,city_76,,No relevent experience,Grade 3,Masters,Yes,>20,2,,,Yes
+163032,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,5,1,,1000-4999,Yes
+163107,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,,Yes
+163124,city_116,,No relevent experience,Grade 2,Graduate,Yes,2,never,,,Yes
+163155,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,19,2,,50-99,Yes
+163164,city_138,Male,Has relevent experience,Grade 3,Graduate,No,15,1,,100-500,No
+163188,city_114,Male,No relevent experience,Grade 2,High School,Yes,2,1,,100-500,Yes
+163242,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,19,2,,50-99,Yes
+163295,city_16,Female,Has relevent experience,Grade 3,Masters,Yes,5,1,,1-10,No
+163305,city_123,Male,Has relevent experience,Grade 3,Graduate,Yes,8,1,,100-500,No
+163341,city_116,Male,No relevent experience,Grade 3,,Yes,5,1,,,No
+163364,city_150,Male,No relevent experience,Grade 3,Graduate,No,3,1,,,Yes
+163395,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,10000+,Yes
+163396,city_45,Male,No relevent experience,Grade 2,High School,Yes,2,1,,100-500,No
+163486,city_10,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,,Yes
+163508,city_104,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,50-99,Yes
+163513,city_103,,Has relevent experience,Grade 3,Graduate,Yes,5,>4,,,Yes
+163559,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,4,2,,500-999,No
+163583,city_160,Male,Has relevent experience,Grade 1,Graduate,Yes,6,1,,1-10,No
+163621,city_104,,No relevent experience,Grade 3,,Yes,4,2,,,Yes
+163680,city_136,Male,No relevent experience,Grade 1,High School,Yes,4,1,,,Yes
+163763,city_21,Male,No relevent experience,Grade 3,High School,Yes,3,never,,,No
+163783,city_114,Male,Has relevent experience,Grade 3,,Yes,8,>4,,100-500,Yes
+163851,city_21,,Has relevent experience,Grade 3,Graduate,Yes,3,1,,100-500,Yes
+163948,city_114,Other,No relevent experience,Grade 3,High School,Yes,5,1,,100-500,Yes
+163952,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,3,2,,,Yes
+164000,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,9,1,,50-99,Yes
+164040,city_71,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,3,,<10,Yes
+164076,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,6,never,,,Yes
+164159,city_21,,No relevent experience,Grade 3,Graduate,Yes,5,1,,50-99,Yes
+164181,city_103,Female,No relevent experience,Grade 3,Phd,Yes,6,2,,100-500,Yes
+164203,city_128,,No relevent experience,Grade 1,Graduate,Yes,4,4,,,No
+164229,city_136,Male,Has relevent experience,Grade 1,Graduate,Yes,9,4,,50-99,Yes
+164240,city_93,Male,Has relevent experience,Grade 2,Graduate,Yes,6,>4,,10000+,Yes
+164252,city_114,,No relevent experience,Grade 3,Graduate,Yes,6,2,,<10,Yes
+164327,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,4,1,,10000+,No
+164343,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,2,1,,100-500,Yes
+164405,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,2,1,,5000-9999,Yes
+164417,city_114,Male,No relevent experience,Grade 3,High School,Yes,5,never,,,No
+164495,city_159,,Has relevent experience,Grade 1,Graduate,No,2,2,,1000-4999,Yes
+164541,city_50,Male,No relevent experience,Grade 3,High School,Yes,2,1,,,No
+164557,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,50-99,Yes
+164647,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,10,4,,100-500,Yes
+164687,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,>20,2,,50-99,Yes
+164752,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,10,1,,,Yes
+164775,city_21,,No relevent experience,Grade 3,Graduate,Yes,4,2,,5000-9999,Yes
+164867,city_21,,Has relevent experience,Grade 1,,No,8,1,,1-10,Yes
+164910,city_21,,Has relevent experience,Grade 1,Graduate,Yes,4,2,,100-500,Yes
+164925,city_103,Male,No relevent experience,Grade 2,Masters,Yes,7,1,,5000-9999,Yes
+165018,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,10,2,,10000+,Yes
+165112,city_76,Male,No relevent experience,Grade 2,Graduate,Yes,10,1,,1-10,No
+165195,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,4,1,,,No
+165290,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,10000+,No
+165351,city_128,Male,No relevent experience,Grade 3,High School,Yes,4,4,,,Yes
+165359,city_23,,Has relevent experience,Grade 2,Graduate,Yes,9,4,,50-99,Yes
+165430,city_21,,Has relevent experience,Grade 2,Graduate,Yes,8,2,,10000+,Yes
+165457,city_67,Female,No relevent experience,Grade 3,Graduate,Yes,5,1,,,Yes
+165472,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,,Yes
+165567,city_36,Male,Has relevent experience,Grade 2,Masters,Yes,11,never,,500-999,No
+165621,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,18,1,,,Yes
+165688,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,11,1,,<10,Yes
+165726,city_114,,No relevent experience,Grade 1,High School,Yes,5,3,,500-999,Yes
+165812,city_123,Male,Has relevent experience,Grade 1,Graduate,No,4,1,,50-99,Yes
+165892,city_90,,No relevent experience,Grade 2,Graduate,Yes,10,1,,100-500,Yes
+165906,city_16,Female,Has relevent experience,Grade 3,Phd,Yes,11,never,,,Yes
+165926,city_118,Male,Has relevent experience,Grade 1,Graduate,Yes,4,1,,100-500,No
+166009,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,10,2,,100-500,No
+166013,city_103,Male,No relevent experience,Grade 3,Masters,Yes,8,4,,<10,Yes
+166029,city_103,Male,No relevent experience,Grade 3,High School,Yes,10,4,,,No
+166105,city_103,,Has relevent experience,Grade 3,Graduate,Yes,17,>4,,50-99,Yes
+166148,city_21,Male,No relevent experience,Grade 1,Graduate,Yes,2,never,,,Yes
+166151,city_114,Male,Has relevent experience,Grade 1,Graduate,Yes,12,>4,,1000-4999,Yes
+166184,city_19,,Has relevent experience,Grade 3,Graduate,Yes,11,2,,,Yes
+166276,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,13,1,,100-500,Yes
+166321,city_75,Male,Has relevent experience,Grade 3,Graduate,Yes,10,1,,<10,Yes
+166384,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,15,3,,100-500,Yes
+166431,city_160,,Has relevent experience,Grade 1,Graduate,Yes,4,2,,,No
+166523,city_46,Male,Has relevent experience,Grade 1,Graduate,Yes,5,>4,,,No
+166597,city_100,Male,No relevent experience,Grade 2,,Yes,3,,,,Yes
+166687,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,,Yes
+166728,city_61,,No relevent experience,Grade 3,High School,Yes,4,never,,,Yes
+166783,city_21,Male,No relevent experience,Grade 3,High School,Yes,5,4,,,No
+166821,city_136,Male,Has relevent experience,Grade 1,Masters,Yes,9,1,,50-99,Yes
+166893,city_36,,Has relevent experience,Grade 2,Graduate,Yes,7,1,,500-999,Yes
+166981,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,11,2,,1000-4999,Yes
+167018,city_150,,No relevent experience,Grade 2,High School,Yes,<1,never,,,Yes
+167077,city_114,Male,No relevent experience,Grade 2,High School,Yes,6,4,,50-99,Yes
+167079,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,7,1,,10000+,Yes
+167101,city_103,Male,Has relevent experience,Grade 3,Phd,No,>20,2,,5000-9999,Yes
+167110,city_23,Male,Has relevent experience,Grade 2,Graduate,Yes,6,1,,10000+,No
+167158,city_149,Female,No relevent experience,Grade 2,Masters,Yes,9,never,,,Yes
+167197,city_74,,Has relevent experience,Grade 2,Graduate,Yes,2,2,,500-999,No
+167289,city_28,,No relevent experience,Grade 3,Graduate,No,9,never,,50-99,No
+167327,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,6,1,,1-10,Yes
+167422,city_105,Male,No relevent experience,Grade 2,Graduate,Yes,3,never,,,Yes
+167468,city_160,Other,Has relevent experience,Grade 3,Graduate,Yes,11,1,,100-500,Yes
+167496,city_21,Male,No relevent experience,Grade 3,Graduate,No,5,1,,5000-9999,Yes
+167586,city_103,Male,Has relevent experience,Grade 3,,Yes,3,never,,,Yes
+167611,city_61,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,100-500,No
+167661,city_21,,No relevent experience,Grade 1,Graduate,Yes,16,2,,100-500,Yes
+167709,city_103,Male,No relevent experience,Grade 3,High School,Yes,3,never,,,No
+167725,city_11,Male,Has relevent experience,Grade 1,Graduate,Yes,7,1,,<10,Yes
+167818,city_21,Male,Has relevent experience,Grade 2,Masters,Yes,10,1,,10000+,Yes
+167917,city_61,Male,Has relevent experience,Grade 1,Masters,Yes,12,>4,,10000+,No
+167978,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,11,2,,<10,No
+168055,city_40,Male,Has relevent experience,Grade 2,Masters,Yes,12,4,,1000-4999,Yes
+168113,city_103,,Has relevent experience,Grade 3,Graduate,Yes,8,2,,<10,Yes
+168134,city_73,,No relevent experience,Grade 3,High School,Yes,2,never,,,No
+168142,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,10,1,,50-99,Yes
+168162,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,500-999,Yes
+168242,city_21,Male,Has relevent experience,Grade 1,Masters,No,9,1,,10000+,No
+168318,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,11,3,,50-99,Yes
+168350,city_103,Male,No relevent experience,Grade 2,Masters,Yes,>20,>4,,10000+,Yes
+168387,city_16,Female,Has relevent experience,Grade 3,Phd,Yes,17,2,,50-99,Yes
+168449,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,6,1,,50-99,Yes
+168528,city_121,Other,Has relevent experience,Grade 2,Graduate,Yes,<1,1,,50-99,No
+168557,city_21,,No relevent experience,Grade 1,Graduate,Yes,5,,,,Yes
+168562,city_136,Male,Has relevent experience,Grade 1,Masters,No,>20,never,,1000-4999,No
+168591,city_116,Female,No relevent experience,Grade 2,Masters,Yes,4,1,,,Yes
+168649,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,11,4,,50-99,Yes
+168674,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,,Yes
+168717,city_21,Female,Has relevent experience,Grade 3,Masters,Yes,4,1,,500-999,Yes
+168733,city_114,Male,No relevent experience,Grade 1,Graduate,Yes,5,1,,<10,Yes
+168776,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,18,2,,10000+,Yes
+168832,city_114,Male,No relevent experience,Grade 3,High School,Yes,7,1,,,No
+168833,city_43,,Has relevent experience,Grade 2,Graduate,No,2,1,,,No
+168847,city_91,,No relevent experience,Grade 2,Primary School,Yes,2,never,,,No
+168877,city_114,Male,No relevent experience,Grade 3,High School,Yes,4,1,,500-999,No
+168909,city_162,Male,Has relevent experience,Grade 2,Graduate,Yes,4,,,1-10,No
+168998,city_21,,Has relevent experience,Grade 1,Graduate,Yes,7,4,,1000-4999,Yes
+169093,city_2,Male,Has relevent experience,Grade 3,Masters,Yes,7,3,,,Yes
+169163,city_46,Male,Has relevent experience,Grade 3,Graduate,Yes,4,4,,<10,Yes
+169177,city_57,Male,No relevent experience,Grade 3,Graduate,Yes,5,1,,,No
+169264,city_103,Female,Has relevent experience,Grade 2,Graduate,Yes,10,2,,50-99,Yes
+169315,city_16,Male,Has relevent experience,Grade 3,Masters,Yes,10,>4,,100-500,Yes
+169359,city_103,,Has relevent experience,Grade 2,Masters,Yes,16,1,,1000-4999,Yes
+169363,city_127,Male,Has relevent experience,Grade 3,Graduate,Yes,5,2,,,Yes
+169438,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,100-500,No
+169536,city_23,Male,Has relevent experience,Grade 3,Graduate,Yes,12,1,,,Yes
+169635,city_104,,No relevent experience,Grade 2,Primary School,Yes,1,never,,,Yes
+169666,city_67,Male,Has relevent experience,Grade 1,Graduate,Yes,12,1,,50-99,Yes
+169708,city_10,Male,Has relevent experience,Grade 2,Graduate,Yes,8,1,,50-99,Yes
+169747,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,100-500,Yes
+169821,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,12,1,,50-99,No
+169875,city_103,,Has relevent experience,Grade 1,Masters,Yes,>20,1,,100-500,Yes
+169957,city_114,Male,No relevent experience,Grade 1,Graduate,Yes,>20,>4,,,No
+169960,city_19,Male,No relevent experience,Grade 2,Graduate,Yes,3,never,,,Yes
+170034,city_160,Male,No relevent experience,Grade 1,Primary School,Yes,2,never,,,Yes
+170100,city_114,Male,Has relevent experience,Grade 1,Masters,Yes,12,3,,100-500,No
+170130,city_136,,Has relevent experience,Grade 2,Graduate,Yes,10,1,,1-10,No
+170219,city_128,Male,No relevent experience,Grade 3,High School,Yes,4,never,,,No
+170272,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,11,4,,10000+,Yes
+170282,city_71,Male,Has relevent experience,Grade 3,Graduate,Yes,3,2,,<10,Yes
+170332,city_21,Female,No relevent experience,Grade 2,Masters,Yes,3,1,,100-500,No
+170350,city_16,Male,No relevent experience,Grade 3,High School,Yes,11,3,,<10,No
+170397,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,3,2,,50-99,Yes
+170472,city_67,Male,Has relevent experience,Grade 3,High School,Yes,11,3,,100-500,No
+170497,city_114,Male,Has relevent experience,Grade 1,Masters,Yes,11,1,,100-500,Yes
+170545,city_99,Female,Has relevent experience,Grade 1,Masters,Yes,>20,1,,100-500,Yes
+170571,city_50,Male,Has relevent experience,Grade 3,Masters,Yes,15,>4,,50-99,No
+170647,city_100,Male,Has relevent experience,Grade 3,High School,Yes,16,1,,,Yes
+170698,city_53,Other,No relevent experience,Grade 3,High School,Yes,2,1,,50-99,No
+170786,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,4,never,,50-99,Yes
+170869,city_103,,Has relevent experience,Grade 2,Masters,Yes,19,2,,5000-9999,Yes
+170875,city_103,,Has relevent experience,Grade 1,Graduate,Yes,15,2,,,No
+170971,city_21,,Has relevent experience,Grade 3,Graduate,Yes,7,>4,,10000+,No
+171002,city_90,,No relevent experience,Grade 2,Masters,Yes,11,4,,100-500,Yes
+171006,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,7,1,,10000+,No
+171091,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,12,1,,10000+,Yes
+171154,city_103,,No relevent experience,Grade 2,Graduate,Yes,9,4,,50-99,No
+171165,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,100-500,Yes
+171207,city_75,Male,Has relevent experience,Grade 1,High School,Yes,4,2,,,Yes
+171267,city_103,,No relevent experience,Grade 3,Graduate,Yes,1,1,,,Yes
+171354,city_37,Female,No relevent experience,Grade 3,Graduate,Yes,4,never,,,Yes
+171425,city_65,Male,Has relevent experience,Grade 3,High School,Yes,9,3,,50-99,Yes
+171431,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,15,2,,1-10,Yes
+171507,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,100-500,Yes
+171519,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,1000-4999,Yes
+171595,city_21,,Has relevent experience,Grade 1,Masters,Yes,<1,1,,500-999,Yes
+171645,city_99,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1000-4999,Yes
+171723,city_16,Male,Has relevent experience,Grade 3,Masters,Yes,>20,4,,<10,Yes
+171777,city_73,Male,Has relevent experience,Grade 3,Masters,Yes,16,2,,1000-4999,Yes
+171820,city_99,,Has relevent experience,Grade 2,Graduate,Yes,9,1,,1000-4999,Yes
+171897,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,1,never,,5000-9999,Yes
+171919,city_116,,Has relevent experience,Grade 3,Primary School,Yes,2,1,,5000-9999,Yes
+172004,city_103,,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,<10,Yes
+172058,city_160,,Has relevent experience,Grade 2,,Yes,>20,1,,,No
+172080,city_101,Male,Has relevent experience,Grade 3,Masters,Yes,15,4,,100-500,No
+172091,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,100-500,Yes
+172095,city_71,Male,Has relevent experience,Grade 3,High School,No,>20,>4,,<10,Yes
+172123,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,Yes
+172180,city_73,Male,Has relevent experience,Grade 2,Graduate,Yes,4,1,,50-99,Yes
+172199,city_103,Female,Has relevent experience,Grade 3,Masters,Yes,>20,2,,<10,No
+172213,city_159,Male,Has relevent experience,Grade 3,Graduate,Yes,6,1,,1000-4999,Yes
+172312,city_160,,No relevent experience,Grade 3,High School,Yes,2,2,,1000-4999,Yes
+172323,city_28,Male,Has relevent experience,Grade 3,High School,Yes,5,1,,,Yes
+172381,city_103,,Has relevent experience,Grade 3,Masters,Yes,15,2,,100-500,Yes
+172452,city_71,Male,No relevent experience,Grade 3,Phd,Yes,9,1,,1-10,Yes
+172551,city_45,Male,Has relevent experience,Grade 1,High School,Yes,11,1,,<10,No
+172635,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,,Yes
+172688,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1000-4999,Yes
+172784,city_16,,Has relevent experience,Grade 2,Masters,Yes,10,2,,,Yes
+172824,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,16,1,,50-99,Yes
+172832,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,1000-4999,Yes
+172932,city_160,Male,Has relevent experience,Grade 1,Graduate,Yes,12,1,,,Yes
+172971,city_103,Female,Has relevent experience,Grade 2,Masters,Yes,4,1,,5000-9999,Yes
+173034,city_114,Male,Has relevent experience,Grade 1,Graduate,Yes,16,4,,1000-4999,Yes
+173105,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,100-500,Yes
+173149,city_21,,No relevent experience,Grade 2,Masters,No,<1,never,,,Yes
+173248,city_158,Male,Has relevent experience,Grade 2,Graduate,Yes,4,1,,50-99,Yes
+173287,city_20,,Has relevent experience,Grade 3,Graduate,Yes,6,4,,1-10,Yes
+173302,city_16,Male,Has relevent experience,Grade 2,High School,Yes,11,1,,500-999,Yes
+173332,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,50-99,No
+173342,city_136,Male,Has relevent experience,Grade 1,Masters,Yes,19,1,,50-99,Yes
+173389,city_16,Male,Has relevent experience,Grade 3,Masters,No,11,>4,,100-500,Yes
+173431,city_160,Male,No relevent experience,Grade 3,Graduate,Yes,>20,>4,,<10,Yes
+173485,city_160,Male,Has relevent experience,Grade 1,Masters,Yes,11,4,,1000-4999,Yes
+173523,city_103,,Has relevent experience,Grade 1,Graduate,Yes,14,1,,,No
+173564,city_45,Male,No relevent experience,Grade 3,Phd,Yes,>20,1,,100-500,Yes
+173635,city_75,Male,Has relevent experience,Grade 3,Graduate,No,8,4,,,Yes
+173650,city_103,Male,Has relevent experience,Grade 2,High School,Yes,7,1,,100-500,Yes
+173675,city_102,Male,Has relevent experience,Grade 3,Primary School,No,>20,1,,<10,Yes
+173727,city_150,Other,No relevent experience,Grade 2,,Yes,>20,never,,,Yes
+173777,city_67,Male,Has relevent experience,Grade 1,Graduate,Yes,5,1,,100-500,Yes
+173834,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,18,4,,50-99,Yes
+173835,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,1,,1000-4999,Yes
+173891,city_75,Female,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,5000-9999,Yes
+173898,city_21,,No relevent experience,Grade 1,Graduate,Yes,1,never,,,Yes
+173988,city_136,Male,Has relevent experience,Grade 3,Graduate,No,7,1,,50-99,Yes
+174051,city_21,Female,Has relevent experience,Grade 2,Graduate,Yes,3,2,,50-99,No
+174096,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,5,4,,5000-9999,No
+174192,city_65,Male,Has relevent experience,Grade 3,Graduate,Yes,10,2,,100-500,Yes
+174223,city_71,Male,Has relevent experience,Grade 2,Graduate,Yes,6,1,,<10,No
+174253,city_23,Male,No relevent experience,Grade 3,Masters,Yes,13,>4,,1-10,Yes
+174275,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,8,1,,100-500,Yes
+174332,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,13,1,,500-999,Yes
+174344,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,15,4,,,No
+174419,city_123,,Has relevent experience,Grade 2,Masters,No,10,1,,1000-4999,Yes
+174502,city_102,Male,No relevent experience,Grade 3,,Yes,3,never,,,No
+174580,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,4,2,,1000-4999,Yes
+174652,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,1-10,Yes
+174675,city_159,Male,No relevent experience,Grade 3,Masters,Yes,6,1,,100-500,No
+174679,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,,No
+174697,city_103,Female,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,10000+,Yes
+174777,city_10,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,1000-4999,No
+174829,city_103,Male,Has relevent experience,Grade 3,Graduate,No,>20,3,,<10,Yes
+174876,city_16,Male,No relevent experience,Grade 3,Graduate,Yes,>20,>4,,50-99,Yes
+174924,city_36,Male,Has relevent experience,Grade 3,Masters,Yes,13,1,,50-99,Yes
+175019,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,50-99,No
+175075,city_11,,No relevent experience,Grade 3,Graduate,Yes,6,1,,<10,Yes
+175109,city_134,,No relevent experience,Grade 3,Phd,Yes,6,never,,,Yes
+175129,city_71,,No relevent experience,Grade 3,Graduate,Yes,6,never,,,Yes
+175183,city_16,,Has relevent experience,Grade 2,Graduate,Yes,9,2,,50-99,No
+175248,city_71,Male,Has relevent experience,Grade 3,Masters,Yes,7,2,,50-99,No
+175265,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,10000+,Yes
+175299,city_40,Female,Has relevent experience,Grade 3,Graduate,No,10,>4,,50-99,No
+175363,city_160,Male,No relevent experience,Grade 3,Graduate,Yes,16,>4,,50-99,Yes
+175457,city_173,Male,No relevent experience,Grade 3,High School,Yes,3,1,,,No
+175483,city_50,,No relevent experience,Grade 1,Graduate,Yes,9,>4,,1-10,Yes
+175581,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,2,1,,<10,Yes
+175652,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,3,1,,1-10,Yes
+175726,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1000-4999,No
+175767,city_71,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,,No
+175818,city_173,,No relevent experience,Grade 3,Graduate,Yes,2,1,,100-500,No
+175837,city_45,Male,Has relevent experience,Grade 3,High School,Yes,10,>4,,1-10,Yes
+175876,city_127,,No relevent experience,Grade 3,Graduate,Yes,3,1,,,Yes
+175963,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,11,2,,<10,Yes
+176043,city_103,,Has relevent experience,Grade 1,Masters,Yes,7,4,,500-999,Yes
+176089,city_2,,No relevent experience,Grade 3,Masters,Yes,<1,never,,<10,No
+176099,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,100-500,Yes
+176111,city_127,Male,No relevent experience,Grade 3,Graduate,Yes,<1,never,,,Yes
+176158,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,5,2,,10000+,No
+176177,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,12,1,,10000+,No
+176237,city_159,Male,No relevent experience,Grade 3,Graduate,Yes,5,never,,,Yes
+176303,city_21,Male,No relevent experience,Grade 3,High School,Yes,5,never,,,No
+176402,city_98,Male,Has relevent experience,Grade 2,Graduate,Yes,15,>4,,50-99,Yes
+176484,city_103,,Has relevent experience,Grade 1,Graduate,Yes,8,1,,10000+,Yes
+176548,city_21,,Has relevent experience,Grade 3,Graduate,No,3,1,,1-10,Yes
+176638,city_176,Male,No relevent experience,Grade 1,Graduate,Yes,3,1,,,Yes
+176674,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,50-99,Yes
+176753,city_160,Male,Has relevent experience,Grade 2,High School,Yes,12,1,,100-500,Yes
+176788,city_176,Male,Has relevent experience,Grade 2,Graduate,Yes,5,>4,,<10,Yes
+176851,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,5,4,,50-99,No
+176927,city_160,Male,Has relevent experience,Grade 2,Masters,Yes,>20,2,,,Yes
+176974,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,1,,50-99,Yes
+177029,city_16,Male,Has relevent experience,Grade 2,Graduate,No,13,1,,,Yes
+177038,city_21,,No relevent experience,Grade 2,Masters,Yes,2,2,,50-99,Yes
+177057,city_114,,No relevent experience,Grade 1,High School,Yes,4,never,,,Yes
+177126,city_21,,Has relevent experience,Grade 1,Graduate,Yes,6,1,,,Yes
+177182,city_160,Female,No relevent experience,Grade 3,Graduate,Yes,1,1,,100-500,No
+177253,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,10,>4,,10000+,Yes
+177310,city_114,Male,Has relevent experience,Grade 1,Graduate,Yes,12,1,,10000+,Yes
+177344,city_102,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,500-999,Yes
+177359,city_21,Female,Has relevent experience,Grade 3,Graduate,No,3,1,,5000-9999,No
+177402,city_40,Male,Has relevent experience,Grade 3,Masters,Yes,18,3,,100-500,Yes
+177426,city_102,Male,No relevent experience,Grade 1,Graduate,Yes,8,>4,,,Yes
+177471,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,16,>4,,10000+,Yes
+177566,city_28,Male,Has relevent experience,Grade 2,Masters,Yes,20,>4,,100-500,Yes
+177597,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,9,3,,100-500,Yes
+177638,city_102,Male,Has relevent experience,Grade 2,Masters,Yes,11,1,,50-99,Yes
+177734,city_173,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1-10,No
+177797,city_114,Male,No relevent experience,Grade 3,Masters,Yes,>20,>4,,100-500,Yes
+177826,city_128,Male,Has relevent experience,Grade 3,Graduate,Yes,4,1,,,No
+177904,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,500-999,Yes
+177968,city_21,,Has relevent experience,Grade 2,Graduate,Yes,7,2,,50-99,Yes
+178028,city_160,,Has relevent experience,Grade 1,Graduate,Yes,20,2,,50-99,Yes
+178063,city_21,,Has relevent experience,Grade 3,,Yes,4,1,,<10,No
+178072,city_162,,Has relevent experience,Grade 1,Graduate,Yes,16,>4,,100-500,Yes
+178131,city_159,Male,No relevent experience,Grade 3,Masters,Yes,3,1,,,Yes
+178170,city_103,Male,No relevent experience,Grade 1,High School,Yes,4,1,,,Yes
+178180,city_100,,Has relevent experience,Grade 3,,Yes,1,never,,5000-9999,Yes
+178206,city_65,Male,No relevent experience,Grade 3,Graduate,Yes,<1,2,,,No
+178217,city_36,Male,Has relevent experience,Grade 3,Graduate,Yes,10,2,,,Yes
+178279,city_23,Male,No relevent experience,Grade 3,Graduate,Yes,5,1,,1000-4999,Yes
+178286,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,10000+,No
+178310,city_46,Male,Has relevent experience,Grade 2,Graduate,Yes,2,1,,1-10,Yes
+178381,city_61,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,,No
+178469,city_16,Male,No relevent experience,Grade 1,High School,Yes,5,1,,,Yes
+178552,city_16,,Has relevent experience,Grade 3,Graduate,Yes,19,3,,,Yes
+178650,city_16,Other,Has relevent experience,Grade 2,Graduate,Yes,5,>4,,1000-4999,Yes
+178725,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,5000-9999,Yes
+178732,city_103,,No relevent experience,Grade 2,Phd,Yes,8,3,,100-500,Yes
+178794,city_150,,No relevent experience,Grade 2,High School,Yes,2,,,,No
+178890,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,7,3,,50-99,Yes
+178925,city_16,Male,Has relevent experience,Grade 3,Graduate,No,16,3,,1000-4999,Yes
+178955,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,12,1,,50-99,Yes
+179000,city_149,,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,,Yes
+179090,city_21,,Has relevent experience,Grade 3,Graduate,Yes,4,2,,,Yes
+179183,city_40,,Has relevent experience,Grade 2,Graduate,Yes,7,1,,,Yes
+179280,city_103,,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,<10,Yes
+179292,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,5,2,,1-10,No
+179352,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,6,2,,,Yes
+179386,city_61,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,,Yes
+179389,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,,Yes
+179425,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,8,2,,100-500,Yes
+179524,city_143,Male,Has relevent experience,Grade 3,Masters,Yes,>20,>4,,,No
+179602,city_102,Male,Has relevent experience,Grade 1,Graduate,Yes,13,1,,50-99,Yes
+179654,city_103,Female,No relevent experience,Grade 3,Graduate,Yes,8,never,,,No
+179661,city_21,,Has relevent experience,Grade 2,Masters,Yes,5,1,,50-99,Yes
+179745,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,100-500,Yes
+179772,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,100-500,Yes
+179856,city_103,,No relevent experience,Grade 2,Graduate,Yes,5,,,1000-4999,No
+179878,city_101,,Has relevent experience,Grade 3,Graduate,Yes,3,1,,<10,No
+179962,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,4,1,,100-500,No
+180055,city_67,Female,Has relevent experience,Grade 3,Graduate,Yes,2,1,,,No
+180069,city_103,,Has relevent experience,Grade 3,,No,7,4,,500-999,Yes
+180134,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,4,1,,500-999,No
+180146,city_23,Male,Has relevent experience,Grade 1,Graduate,Yes,4,never,,1000-4999,Yes
+180213,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,7,1,,,Yes
+180292,city_94,Male,No relevent experience,Grade 3,High School,Yes,16,never,,,No
+180303,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,11,1,,50-99,Yes
+180339,city_103,Female,Has relevent experience,Grade 2,Graduate,Yes,10,1,,10000+,Yes
+180364,city_61,Female,No relevent experience,Grade 1,Graduate,No,2,2,,50-99,Yes
+180440,city_162,Male,Has relevent experience,Grade 1,Graduate,Yes,9,1,,,Yes
+180483,city_103,Male,No relevent experience,Grade 2,High School,Yes,7,1,,,No
+180575,city_74,,Has relevent experience,Grade 3,Masters,Yes,12,>4,,50-99,Yes
+180586,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,5,never,,10000+,Yes
+180677,city_75,Male,Has relevent experience,Grade 2,Graduate,No,>20,1,,,No
+180775,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,5,2,,50-99,Yes
+180834,city_50,Male,Has relevent experience,Grade 1,Graduate,No,10,1,,<10,Yes
+180921,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,50-99,Yes
+180948,city_102,Male,Has relevent experience,Grade 2,,Yes,8,>4,,1000-4999,Yes
+180993,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,10000+,Yes
+181014,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,>20,2,,10000+,Yes
+181031,city_102,Male,Has relevent experience,Grade 3,Masters,Yes,>20,2,,10000+,Yes
+181092,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,4,never,,,Yes
+181172,city_89,,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,<10,Yes
+181227,city_28,Male,Has relevent experience,Grade 2,Graduate,Yes,17,3,,10000+,Yes
+181327,city_136,Male,Has relevent experience,Grade 2,Masters,Yes,6,1,,<10,Yes
+181332,city_173,Male,Has relevent experience,Grade 2,High School,Yes,12,3,,1000-4999,Yes
+181423,city_21,Male,No relevent experience,Grade 3,Primary School,Yes,3,never,,,No
+181454,city_12,Male,No relevent experience,Grade 3,Graduate,Yes,6,1,,50-99,Yes
+181545,city_40,,Has relevent experience,Grade 3,Graduate,Yes,20,1,,,No
+181553,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,3,1,,100-500,No
+181569,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,11,2,,100-500,No
+181659,city_42,Male,No relevent experience,Grade 3,Graduate,Yes,5,1,,5000-9999,No
+181740,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,8,never,,,Yes
+181749,city_103,,Has relevent experience,Grade 3,Phd,Yes,9,1,,500-999,Yes
+181789,city_45,Male,Has relevent experience,Grade 3,High School,Yes,15,1,,,Yes
+181822,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,13,2,,100-500,Yes
+181829,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,10,1,,<10,No
+181850,city_114,Male,Has relevent experience,Grade 2,Phd,Yes,>20,1,,50-99,Yes
+181921,city_103,,Has relevent experience,Grade 2,Masters,No,>20,>4,,1000-4999,No
+181960,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,5,1,,50-99,Yes
+182015,city_28,Male,No relevent experience,Grade 3,High School,Yes,3,2,,,No
+182018,city_117,,No relevent experience,Grade 1,Graduate,Yes,3,1,,,Yes
+182026,city_165,Male,Has relevent experience,Grade 2,Masters,No,>20,2,,10000+,No
+182115,city_152,,Has relevent experience,Grade 1,Graduate,Yes,19,2,,50-99,Yes
+182187,city_75,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,1-10,Yes
+182190,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,3,3,,1-10,Yes
+182203,city_16,,Has relevent experience,Grade 1,Phd,Yes,>20,>4,,100-500,Yes
+182232,city_91,,Has relevent experience,Grade 3,Graduate,Yes,8,3,,10000+,No
+182298,city_21,Male,Has relevent experience,Grade 3,Masters,Yes,8,1,,5000-9999,Yes
+182374,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,,Yes
+182444,city_103,Male,Has relevent experience,Grade 3,Graduate,No,17,>4,,100-500,Yes
+182539,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,100-500,Yes
+182607,city_162,Male,Has relevent experience,Grade 2,Graduate,Yes,6,1,,1-10,Yes
+182694,city_128,,No relevent experience,Grade 2,Graduate,Yes,3,1,,,Yes
+182790,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,11,>4,,1-10,Yes
+182881,city_160,Female,Has relevent experience,Grade 1,Graduate,No,15,3,,500-999,Yes
+182883,city_64,Male,Has relevent experience,Grade 2,Graduate,No,15,3,,50-99,Yes
+182904,city_45,,Has relevent experience,Grade 3,Graduate,Yes,15,2,,,No
+182974,city_114,Male,No relevent experience,Grade 3,Masters,Yes,>20,1,,500-999,Yes
+182981,city_61,Male,Has relevent experience,Grade 3,Graduate,Yes,19,1,,<10,Yes
+183034,city_103,Male,No relevent experience,Grade 2,High School,Yes,6,3,,,Yes
+183079,city_100,Female,Has relevent experience,Grade 2,Graduate,No,17,>4,,100-500,Yes
+183143,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,10000+,Yes
+183158,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,50-99,Yes
+183257,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,10000+,Yes
+183311,city_36,Male,Has relevent experience,Grade 1,High School,Yes,10,3,,100-500,Yes
+183374,city_142,Male,Has relevent experience,Grade 2,Masters,Yes,5,1,,<10,No
+183474,city_128,,Has relevent experience,Grade 2,Graduate,Yes,3,1,,,No
+183516,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,6,1,,100-500,Yes
+183544,city_11,,Has relevent experience,Grade 1,Masters,Yes,1,never,,50-99,Yes
+183587,city_160,Male,No relevent experience,Grade 3,Graduate,Yes,12,2,,,Yes
+183619,city_165,Female,No relevent experience,Grade 2,Masters,Yes,<1,1,,1-10,Yes
+183680,city_27,Male,No relevent experience,Grade 3,Graduate,Yes,10,never,,,Yes
+183702,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,2,1,,<10,Yes
+183749,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,2,,500-999,Yes
+183765,city_103,Female,No relevent experience,Grade 1,Masters,Yes,4,1,,1000-4999,Yes
+183807,city_136,Female,No relevent experience,Grade 2,Phd,Yes,6,1,,,No
+183815,city_103,Male,No relevent experience,Grade 1,Graduate,Yes,2,2,,,Yes
+183817,city_160,,No relevent experience,Grade 3,Masters,Yes,16,1,,10000+,Yes
+183884,city_30,Female,Has relevent experience,Grade 3,Graduate,Yes,9,1,,100-500,No
+183930,city_19,Female,No relevent experience,Grade 3,Graduate,Yes,<1,3,,,No
+184016,city_114,Male,No relevent experience,Grade 3,Graduate,Yes,5,2,,,No
+184047,city_21,Male,No relevent experience,Grade 1,Primary School,Yes,1,never,,,Yes
+184139,city_21,Male,Has relevent experience,Grade 1,Masters,Yes,19,never,,50-99,Yes
+184227,city_21,,No relevent experience,Grade 1,Masters,No,2,2,,,Yes
+184299,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,2,1,,,No
+184375,city_28,,No relevent experience,Grade 2,Phd,Yes,>20,3,,5000-9999,Yes
+184465,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,11,>4,,,Yes
+184483,city_74,,Has relevent experience,Grade 3,Graduate,Yes,7,2,,50-99,Yes
+184570,city_114,Male,Has relevent experience,Grade 1,High School,Yes,7,never,,1-10,Yes
+184575,city_162,Male,Has relevent experience,Grade 3,Masters,Yes,17,2,,50-99,No
+184578,city_46,Male,No relevent experience,Grade 3,High School,Yes,3,1,,,No
+184623,city_75,Other,Has relevent experience,Grade 3,Graduate,Yes,16,never,,,Yes
+184627,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,4,2,,100-500,Yes
+184670,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,13,>4,,500-999,Yes
+184768,city_83,,No relevent experience,Grade 1,Masters,Yes,4,3,,50-99,Yes
+184769,city_21,,Has relevent experience,Grade 3,Graduate,Yes,7,1,,,Yes
+184822,city_24,Male,Has relevent experience,Grade 2,Masters,Yes,11,3,,,Yes
+184827,city_105,Male,Has relevent experience,Grade 3,Graduate,No,11,>4,,100-500,Yes
+184915,city_21,,No relevent experience,Grade 1,Graduate,Yes,4,never,,,Yes
+184974,city_149,,No relevent experience,Grade 2,Graduate,Yes,5,1,,1000-4999,Yes
+185006,city_16,,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,100-500,Yes
+185096,city_75,,Has relevent experience,Grade 3,Graduate,Yes,9,1,,5000-9999,Yes
+185151,city_45,Male,Has relevent experience,Grade 2,Graduate,Yes,5,4,,<10,Yes
+185204,city_24,,No relevent experience,Grade 2,Masters,Yes,8,1,,500-999,Yes
+185268,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,4,3,,<10,Yes
+185342,city_21,Female,Has relevent experience,Grade 2,Graduate,Yes,7,4,,,No
+185411,city_21,Male,No relevent experience,Grade 3,High School,No,4,never,,,No
+185436,city_75,Male,Has relevent experience,Grade 1,Graduate,Yes,4,1,,50-99,Yes
+185486,city_144,Male,Has relevent experience,Grade 2,High School,Yes,13,1,,50-99,Yes
+185577,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,12,1,,100-500,No
+185597,city_134,Male,Has relevent experience,Grade 2,Masters,Yes,9,1,,1000-4999,Yes
+185658,city_160,,Has relevent experience,Grade 3,Masters,Yes,7,2,,,Yes
+185679,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,15,1,,10000+,Yes
+185706,city_16,,No relevent experience,Grade 3,Graduate,Yes,6,1,,10000+,No
+185713,city_16,,Has relevent experience,Grade 2,Graduate,Yes,4,1,,50-99,No
+185798,city_114,Male,No relevent experience,Grade 3,Masters,Yes,3,3,,500-999,Yes
+185827,city_74,Male,No relevent experience,Grade 2,Graduate,Yes,3,2,,,Yes
+185918,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,11,2,,1000-4999,Yes
+185990,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,11,1,,500-999,No
+186006,city_159,Male,Has relevent experience,Grade 3,Masters,No,10,3,,100-500,Yes
+186054,city_36,Male,Has relevent experience,Grade 3,Graduate,Yes,14,1,,1-10,Yes
+186094,city_21,,Has relevent experience,Grade 2,Graduate,Yes,9,1,,,Yes
+186189,city_115,Male,Has relevent experience,Grade 3,Graduate,Yes,7,1,,50-99,No
+186199,city_72,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,1000-4999,Yes
+186242,city_73,Male,Has relevent experience,Grade 3,Graduate,Yes,9,3,,1-10,Yes
+186292,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,15,1,,10000+,No
+186360,city_136,,No relevent experience,Grade 2,Masters,No,5,1,,50-99,Yes
+186427,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,13,>4,,100-500,Yes
+186430,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,11,never,,1000-4999,Yes
+186433,city_11,Male,Has relevent experience,Grade 3,Graduate,Yes,12,3,,50-99,Yes
+186520,city_136,,No relevent experience,Grade 2,Graduate,Yes,2,,,<10,Yes
+186595,city_28,Male,Has relevent experience,Grade 3,Graduate,Yes,7,3,,1-10,Yes
+186660,city_102,Male,No relevent experience,Grade 3,Masters,No,<1,1,,5000-9999,Yes
+186746,city_21,,Has relevent experience,Grade 3,Graduate,Yes,3,1,,50-99,Yes
+186764,city_103,,No relevent experience,Grade 2,Masters,Yes,3,1,,,No
+186819,city_165,Male,Has relevent experience,Grade 2,Graduate,Yes,9,>4,,1000-4999,Yes
+186854,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,7,2,,5000-9999,Yes
+186938,city_103,,Has relevent experience,Grade 3,Graduate,No,5,2,,100-500,Yes
+186955,city_53,Male,Has relevent experience,Grade 2,Graduate,No,9,2,,,No
+186991,city_159,Male,Has relevent experience,Grade 3,Masters,Yes,16,1,,50-99,Yes
+187008,city_16,Other,No relevent experience,Grade 3,Masters,Yes,>20,>4,,500-999,Yes
+187099,city_28,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,100-500,Yes
+187116,city_103,,Has relevent experience,Grade 3,Graduate,Yes,15,>4,,,Yes
+187120,city_115,Male,No relevent experience,Grade 3,Graduate,Yes,1,never,,,No
+187146,city_50,Male,No relevent experience,Grade 2,High School,Yes,2,1,,,No
+187209,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,16,2,,50-99,Yes
+187274,city_160,,Has relevent experience,Grade 1,Masters,Yes,11,3,,100-500,No
+187355,city_41,Male,Has relevent experience,Grade 3,Graduate,Yes,8,2,,<10,Yes
+187453,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,3,1,,<10,No
+187539,city_157,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,500-999,Yes
+187633,city_103,Male,Has relevent experience,Grade 3,High School,Yes,16,4,,500-999,Yes
+187709,city_67,Male,Has relevent experience,Grade 1,Masters,Yes,15,3,,100-500,Yes
+187752,city_116,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,100-500,Yes
+187849,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,15,>4,,100-500,Yes
+187902,city_73,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,1-10,Yes
+187909,city_77,Male,No relevent experience,Grade 3,High School,Yes,5,1,,1-10,No
+187977,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,3,3,,10000+,Yes
+188029,city_114,,Has relevent experience,Grade 3,,Yes,4,1,,1-10,Yes
+188067,city_94,Male,Has relevent experience,Grade 3,Graduate,Yes,6,1,,,No
+188161,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,1,1,,10000+,Yes
+188247,city_10,Male,No relevent experience,Grade 3,Masters,Yes,>20,1,,,Yes
+188301,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,3,2,,5000-9999,No
+188396,city_21,Male,No relevent experience,Grade 2,Graduate,Yes,2,never,,,No
+188433,city_65,Female,Has relevent experience,Grade 3,Graduate,Yes,14,1,,100-500,No
+188508,city_114,Male,Has relevent experience,Grade 3,Masters,No,>20,>4,,5000-9999,Yes
+188534,city_71,Female,No relevent experience,Grade 2,Graduate,Yes,4,2,,10000+,Yes
+188589,city_73,Male,Has relevent experience,Grade 3,Masters,Yes,12,>4,,,Yes
+188595,city_16,,No relevent experience,Grade 3,Masters,Yes,7,1,,50-99,No
+188664,city_41,Male,Has relevent experience,Grade 2,Graduate,Yes,16,1,,,Yes
+188701,city_103,,Has relevent experience,Grade 1,Graduate,Yes,1,1,,1000-4999,Yes
+188744,city_16,Male,Has relevent experience,Grade 1,Masters,No,17,1,,5000-9999,Yes
+188781,city_90,,Has relevent experience,Grade 2,Graduate,Yes,2,1,,,Yes
+188793,city_114,,Has relevent experience,Grade 3,Graduate,Yes,1,1,,,No
+188841,city_138,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,1-10,Yes
+188851,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,3,,1-10,Yes
+188879,city_21,,No relevent experience,Grade 3,Graduate,Yes,4,1,,,No
+188904,city_103,Male,No relevent experience,Grade 1,Phd,Yes,10,>4,,,Yes
+188974,city_91,,No relevent experience,Grade 2,Primary School,Yes,2,1,,,Yes
+189039,city_75,Male,Has relevent experience,Grade 2,Graduate,Yes,15,2,,,Yes
+189099,city_75,,No relevent experience,Grade 3,Masters,Yes,9,1,,50-99,Yes
+189178,city_21,,No relevent experience,Grade 1,Graduate,Yes,5,never,,,Yes
+189216,city_103,,Has relevent experience,Grade 3,Graduate,Yes,10,,,500-999,Yes
+189310,city_136,Female,No relevent experience,Grade 2,Graduate,Yes,4,never,,,Yes
+189350,city_71,Male,Has relevent experience,Grade 2,Masters,Yes,3,1,,500-999,No
+189419,city_21,,Has relevent experience,Grade 1,Graduate,Yes,3,1,,50-99,Yes
+189424,city_150,,Has relevent experience,Grade 2,Masters,Yes,5,1,,1-10,No
+189491,city_158,Male,Has relevent experience,Grade 3,Graduate,Yes,13,>4,,,No
+189511,city_103,Other,No relevent experience,Grade 3,Graduate,Yes,4,3,,500-999,Yes
+189592,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,50-99,Yes
+189690,city_100,,Has relevent experience,Grade 3,Masters,Yes,,3,,1-10,Yes
+189756,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,10000+,Yes
+189833,city_102,Male,Has relevent experience,Grade 2,Masters,No,5,2,,100-500,Yes
+189877,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,7,3,,100-500,Yes
+189885,city_71,Male,Has relevent experience,Grade 3,Masters,Yes,16,1,,50-99,No
+189976,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,10,2,,,Yes
+190071,city_103,Male,Has relevent experience,Grade 3,Masters,No,14,1,,10000+,Yes
+190162,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,5,never,,100-500,Yes
+190248,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,10000+,Yes
+190264,city_114,,Has relevent experience,Grade 2,Graduate,Yes,10,4,,1-10,No
+190345,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,,Yes
+190401,city_13,Male,Has relevent experience,Grade 3,Masters,Yes,17,1,,1-10,Yes
+190489,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,3,never,,10000+,No
+190513,city_103,Female,No relevent experience,Grade 3,Phd,Yes,7,never,,,No
+190574,city_114,Female,Has relevent experience,Grade 2,Masters,No,9,4,,<10,Yes
+190633,city_11,,Has relevent experience,Grade 3,Masters,Yes,8,3,,50-99,Yes
+190725,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,15,1,,10000+,Yes
+190743,city_2,Male,No relevent experience,Grade 3,Graduate,Yes,2,2,,,Yes
+190822,city_160,Female,No relevent experience,Grade 2,Graduate,Yes,4,never,,,Yes
+190889,city_103,Male,Has relevent experience,Grade 3,High School,Yes,>20,>4,,50-99,Yes
+190985,city_67,Male,Has relevent experience,Grade 3,Masters,Yes,18,2,,100-500,Yes
+191074,city_21,,No relevent experience,Grade 3,Masters,Yes,2,1,,100-500,Yes
+191148,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,13,1,,50-99,Yes
+191227,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,4,1,,100-500,No
+191252,city_83,Male,Has relevent experience,Grade 1,Graduate,Yes,9,1,,10000+,Yes
+191330,city_67,Female,Has relevent experience,Grade 3,Graduate,Yes,4,1,,1000-4999,No
+191370,city_128,Male,Has relevent experience,Grade 3,Graduate,Yes,6,2,,<10,Yes
+191376,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,14,2,,100-500,Yes
+191461,city_21,,No relevent experience,Grade 3,Masters,No,3,1,,50-99,Yes
+191558,city_134,,No relevent experience,Grade 1,,Yes,1,,,,Yes
+191569,city_1,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,,Yes
+191604,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,11,1,,5000-9999,No
+191629,city_21,Female,Has relevent experience,Grade 1,Masters,Yes,6,1,,50-99,Yes
+191649,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,17,>4,,100-500,No
+191740,city_16,,No relevent experience,Grade 3,Graduate,Yes,5,2,,50-99,No
+191785,city_160,,No relevent experience,Grade 3,Graduate,Yes,>20,1,,,Yes
+191852,city_90,Male,No relevent experience,Grade 2,Graduate,Yes,<1,1,,,Yes
+191864,city_67,Female,No relevent experience,Grade 2,Graduate,Yes,5,1,,,No
+191867,city_21,,Has relevent experience,Grade 3,,Yes,1,never,,,Yes
+191941,city_20,Male,Has relevent experience,Grade 3,Graduate,Yes,11,3,,100-500,Yes
+192035,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,19,3,,50-99,Yes
+192067,city_98,,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,1000-4999,Yes
+192086,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,2,2,,50-99,No
+192151,city_67,,Has relevent experience,Grade 2,High School,Yes,5,1,,5000-9999,Yes
+192225,city_21,,No relevent experience,Grade 2,Graduate,Yes,1,never,,,Yes
+192291,city_21,Male,Has relevent experience,Grade 1,,Yes,2,2,,,Yes
+192306,city_134,,No relevent experience,Grade 3,,Yes,2,never,,,No
+192367,city_149,Male,No relevent experience,Grade 3,Graduate,Yes,4,1,,,Yes
+192404,city_105,Male,Has relevent experience,Grade 2,Graduate,Yes,5,2,,100-500,Yes
+192481,city_16,Male,No relevent experience,Grade 3,Primary School,Yes,3,2,,,No
+192496,city_21,,No relevent experience,Grade 2,Graduate,Yes,3,never,,,No
+192533,city_16,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,1,,<10,Yes
+192628,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,16,1,,500-999,Yes
+192680,city_67,Male,Has relevent experience,Grade 2,Graduate,Yes,11,1,,1-10,Yes
+192705,city_103,Male,Has relevent experience,Grade 2,Phd,Yes,9,1,,100-500,Yes
+192737,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,4,never,,50-99,Yes
+192796,city_103,Male,No relevent experience,Grade 3,Masters,Yes,>20,>4,,10000+,Yes
+192808,city_75,Male,Has relevent experience,Grade 2,Graduate,Yes,14,4,,,Yes
+192844,city_10,,No relevent experience,Grade 1,High School,Yes,3,never,,,Yes
+192901,city_21,Female,No relevent experience,Grade 1,Graduate,Yes,<1,never,,100-500,Yes
+192999,city_103,Male,No relevent experience,Grade 3,High School,Yes,4,1,,,No
+193093,city_123,Male,Has relevent experience,Grade 1,Masters,Yes,14,1,,<10,Yes
+193172,city_103,,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,Yes
+193258,city_16,Female,Has relevent experience,Grade 1,Masters,Yes,8,2,,50-99,Yes
+193351,city_103,,Has relevent experience,Grade 3,High School,Yes,13,1,,100-500,Yes
+193374,city_114,,No relevent experience,Grade 3,High School,Yes,6,never,,,No
+193384,city_40,Male,Has relevent experience,Grade 2,Graduate,No,13,2,,50-99,Yes
+193389,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,8,1,,50-99,Yes
+193487,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,9,4,,50-99,Yes
+193544,city_114,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,10000+,Yes
+193551,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,10,2,,,No
+193594,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,7,4,,10000+,No
+193630,city_21,,Has relevent experience,Grade 1,Masters,Yes,11,2,,100-500,Yes
+193668,city_173,Male,Has relevent experience,Grade 1,High School,Yes,6,never,,100-500,Yes
+193704,city_10,Male,No relevent experience,Grade 1,High School,Yes,4,1,,1-10,No
+193802,city_74,,Has relevent experience,Grade 2,Graduate,No,6,1,,1-10,Yes
+193820,city_40,Male,Has relevent experience,Grade 2,Masters,Yes,9,1,,100-500,Yes
+193872,city_99,Female,No relevent experience,Grade 1,Graduate,Yes,5,1,,1-10,No
+193936,city_36,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,>4,,,No
+193954,city_11,,No relevent experience,Grade 3,Graduate,Yes,2,1,,,Yes
+194032,city_21,,Has relevent experience,Grade 2,Graduate,Yes,2,1,,5000-9999,No
+194120,city_67,Male,Has relevent experience,Grade 3,Graduate,Yes,7,2,,50-99,Yes
+194183,city_149,,Has relevent experience,Grade 2,Graduate,Yes,14,2,,,Yes
+194258,city_21,Male,No relevent experience,Grade 3,High School,Yes,4,1,,,No
+194290,city_149,Male,No relevent experience,Grade 3,Graduate,Yes,20,never,,,Yes
+194314,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,8,4,,100-500,Yes
+194361,city_94,Male,No relevent experience,Grade 3,Graduate,Yes,11,1,,1-10,No
+194365,city_149,Male,No relevent experience,Grade 3,Graduate,Yes,<1,1,,1-10,Yes
+194418,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,,Yes
+194441,city_160,Other,No relevent experience,Grade 3,Graduate,Yes,>20,>4,,10000+,Yes
+194510,city_160,Female,No relevent experience,Grade 3,Graduate,Yes,6,1,,,No
+194557,city_103,Male,Has relevent experience,Grade 2,Graduate,No,10,1,,10000+,No
+194642,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,3,1,,1-10,Yes
+194690,city_65,,Has relevent experience,Grade 2,Graduate,Yes,16,1,,5000-9999,Yes
+194746,city_102,Male,Has relevent experience,Grade 3,Graduate,Yes,13,3,,1000-4999,No
+194812,city_74,Male,Has relevent experience,Grade 3,Graduate,Yes,13,1,,100-500,No
+194873,city_9,Male,Has relevent experience,Grade 3,Graduate,Yes,10,>4,,100-500,Yes
+194913,city_162,,Has relevent experience,Grade 2,Masters,Yes,11,3,,1000-4999,Yes
+194994,city_65,,Has relevent experience,Grade 2,Masters,Yes,>20,1,,50-99,Yes
+195036,city_28,Male,Has relevent experience,Grade 2,Graduate,Yes,11,4,,1-10,Yes
+195127,city_16,Male,No relevent experience,Grade 3,High School,Yes,11,1,,,Yes
+195173,city_114,Male,Has relevent experience,Grade 3,High School,Yes,>20,>4,,500-999,Yes
+195180,city_103,Male,No relevent experience,Grade 3,Primary School,Yes,2,never,,,Yes
+195219,city_19,Male,Has relevent experience,Grade 3,,Yes,8,1,,<10,Yes
+195231,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,14,1,,50-99,Yes
+195254,city_21,,No relevent experience,Grade 3,Graduate,Yes,3,never,,,Yes
+195344,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,5,2,,1-10,Yes
+195410,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,<10,Yes
+195486,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,7,4,,100-500,No
+195564,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,6,4,,100-500,Yes
+195642,city_103,Male,Has relevent experience,Grade 3,High School,Yes,>20,1,,1-10,Yes
+195728,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,3,1,,5000-9999,Yes
+195808,city_114,Male,Has relevent experience,Grade 1,Graduate,Yes,13,2,,<10,Yes
+195851,city_114,Male,Has relevent experience,Grade 1,Graduate,Yes,7,1,,,Yes
+195898,city_16,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,50-99,No
+195923,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,1000-4999,Yes
+196012,city_23,Male,Has relevent experience,Grade 2,Graduate,Yes,5,1,,100-500,Yes
+196101,city_114,Male,Has relevent experience,Grade 3,Graduate,No,10,1,,<10,Yes
+196199,city_21,Male,Has relevent experience,Grade 3,Masters,Yes,7,2,,,Yes
+196228,city_102,Male,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,50-99,Yes
+196279,city_114,Female,No relevent experience,Grade 3,Graduate,Yes,17,1,,<10,No
+196292,city_72,,Has relevent experience,Grade 3,Masters,Yes,7,1,,<10,Yes
+196342,city_152,,Has relevent experience,Grade 3,Graduate,No,4,1,,<10,Yes
+196402,city_16,Male,No relevent experience,Grade 3,Graduate,Yes,7,1,,100-500,Yes
+196438,city_160,Female,No relevent experience,Grade 1,Graduate,Yes,2,1,,500-999,Yes
+196490,city_21,,Has relevent experience,Grade 3,Graduate,Yes,2,1,,100-500,Yes
+196516,city_16,Male,Has relevent experience,Grade 1,High School,Yes,8,1,,10000+,No
+196553,city_67,Male,Has relevent experience,Grade 3,High School,Yes,3,1,,<10,Yes
+196636,city_104,Male,Has relevent experience,Grade 3,Graduate,Yes,9,2,,10000+,No
+196672,city_103,Female,No relevent experience,Grade 3,Masters,Yes,6,1,,1-10,No
+196701,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,7,2,,10000+,No
+196744,city_16,,No relevent experience,Grade 3,High School,Yes,<1,never,,,No
+196834,city_114,,Has relevent experience,Grade 2,Masters,Yes,>20,>4,,5000-9999,No
+196912,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,500-999,Yes
+196944,city_149,,No relevent experience,Grade 2,,Yes,2,never,,,No
+196998,city_160,Male,No relevent experience,Grade 1,High School,Yes,5,1,,,Yes
+197078,city_45,Male,Has relevent experience,Grade 2,High School,Yes,9,1,,,No
+197159,city_21,,Has relevent experience,Grade 3,Graduate,Yes,5,1,,100-500,No
+197195,city_21,,No relevent experience,Grade 1,High School,Yes,5,never,,,Yes
+197272,city_159,Male,Has relevent experience,Grade 3,Graduate,Yes,8,1,,50-99,No
+197287,city_16,Male,No relevent experience,Grade 3,Masters,Yes,7,1,,,No
+197331,city_114,Male,Has relevent experience,Grade 3,High School,No,>20,1,,,No
+197360,city_90,Male,No relevent experience,Grade 3,Graduate,Yes,5,1,,1-10,Yes
+197415,city_160,Male,Has relevent experience,Grade 2,Graduate,No,15,2,,50-99,No
+197443,city_114,Male,No relevent experience,Grade 3,Graduate,Yes,17,3,,1000-4999,Yes
+197514,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,1,,,Yes
+197540,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,4,2,,100-500,Yes
+197576,city_173,Male,Has relevent experience,Grade 3,Masters,Yes,13,1,,,No
+197636,city_71,Male,No relevent experience,Grade 2,High School,No,7,1,,100-500,Yes
+197725,city_21,Female,Has relevent experience,Grade 2,Graduate,Yes,10,1,,50-99,Yes
+197814,city_103,,No relevent experience,Grade 2,Graduate,Yes,2,2,,,Yes
+197883,city_21,,Has relevent experience,Grade 2,Graduate,Yes,4,2,,10000+,Yes
+197906,city_21,,Has relevent experience,Grade 3,Masters,Yes,10,2,,50-99,No
+197926,city_13,Male,Has relevent experience,Grade 3,Graduate,Yes,6,2,,50-99,No
+197954,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,9,1,,1-10,No
+198020,city_16,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,100-500,Yes
+198090,city_145,Male,No relevent experience,Grade 1,Graduate,Yes,1,1,,,No
+198159,city_74,Male,Has relevent experience,Grade 1,Masters,Yes,2,1,,1-10,Yes
+198256,city_114,,No relevent experience,Grade 3,Primary School,Yes,2,never,,,Yes
+198277,city_26,Male,Has relevent experience,Grade 3,High School,Yes,6,2,,<10,No
+198361,city_67,Male,Has relevent experience,Grade 2,Masters,Yes,11,2,,10000+,Yes
+198428,city_36,Male,Has relevent experience,Grade 3,High School,Yes,10,2,,50-99,Yes
+198501,city_40,Male,Has relevent experience,Grade 1,Graduate,Yes,11,4,,100-500,Yes
+198600,city_136,Male,Has relevent experience,Grade 1,Masters,Yes,>20,>4,,50-99,Yes
+198663,city_103,Male,Has relevent experience,Grade 3,High School,Yes,3,never,,50-99,Yes
+198725,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,3,,,Yes
+198788,city_158,Male,Has relevent experience,Grade 3,Graduate,Yes,10,2,,500-999,Yes
+198824,city_114,,Has relevent experience,Grade 3,Masters,Yes,15,2,,10000+,Yes
+198897,city_143,,Has relevent experience,Grade 3,Graduate,Yes,13,>4,,,Yes
+198994,city_21,Male,No relevent experience,Grade 1,Masters,Yes,5,1,,,Yes
+199038,city_136,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,10000+,No
+199069,city_100,Male,Has relevent experience,Grade 2,Graduate,Yes,10,2,,,No
+199145,city_104,Male,Has relevent experience,Grade 1,Graduate,Yes,15,1,,500-999,Yes
+199227,city_64,Male,Has relevent experience,Grade 2,Masters,Yes,16,3,,,No
+199241,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,10,1,,<10,Yes
+199341,city_114,Male,Has relevent experience,Grade 3,High School,Yes,7,2,,<10,Yes
+199423,city_114,,Has relevent experience,Grade 3,Masters,Yes,14,,,100-500,Yes
+199518,city_71,,Has relevent experience,Grade 3,Graduate,Yes,15,>4,,10000+,No
+199611,city_114,,No relevent experience,Grade 2,Graduate,Yes,12,2,,,Yes
+199632,city_21,,Has relevent experience,Grade 1,Masters,Yes,9,>4,,,No
+199662,city_21,,Has relevent experience,Grade 1,Graduate,No,5,1,,50-99,Yes
+199746,city_104,Male,No relevent experience,Grade 3,Phd,Yes,17,3,,50-99,No
+199751,city_67,Male,No relevent experience,Grade 3,Phd,Yes,9,>4,,,Yes
+199783,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,4,1,,,Yes
+199843,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,17,1,,100-500,Yes
+199920,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,20,1,,50-99,Yes
+200002,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,2,,50-99,Yes
+200018,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,2,,100-500,No
+200032,city_100,,Has relevent experience,Grade 3,Masters,Yes,>20,1,,50-99,Yes
+200098,city_97,Male,Has relevent experience,Grade 2,Graduate,Yes,16,>4,,1000-4999,Yes
+200125,city_134,Male,Has relevent experience,Grade 3,Graduate,Yes,7,1,,<10,Yes
+200161,city_103,Male,Has relevent experience,Grade 2,Masters,No,>20,1,,500-999,No
+200259,city_21,,Has relevent experience,Grade 3,Graduate,Yes,10,2,,50-99,Yes
+200339,city_21,,Has relevent experience,Grade 3,Graduate,Yes,3,,,50-99,Yes
+200382,city_21,Male,Has relevent experience,Grade 3,Masters,Yes,4,4,,50-99,Yes
+200431,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,10,1,,500-999,Yes
+200473,city_16,Male,Has relevent experience,Grade 1,Graduate,Yes,7,>4,,1-10,Yes
+200487,city_21,,No relevent experience,Grade 3,Graduate,Yes,<1,never,,,Yes
+200562,city_180,,No relevent experience,Grade 3,Graduate,Yes,2,1,,,Yes
+200615,city_103,,No relevent experience,Grade 3,Masters,Yes,6,1,,5000-9999,No
+200677,city_21,,No relevent experience,Grade 2,Graduate,Yes,<1,never,,,No
+200685,city_21,,Has relevent experience,Grade 3,Graduate,Yes,6,4,,,Yes
+200690,city_103,Female,No relevent experience,Grade 1,Graduate,Yes,2,1,,50-99,Yes
+200742,city_21,Male,Has relevent experience,Grade 2,Graduate,Yes,<1,1,,1-10,Yes
+200789,city_149,,Has relevent experience,Grade 3,Graduate,Yes,11,4,,100-500,Yes
+200852,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,18,2,,1-10,Yes
+200922,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,9,1,,,Yes
+200947,city_27,Male,Has relevent experience,Grade 1,High School,Yes,10,2,,50-99,Yes
+201039,city_99,Male,No relevent experience,Grade 2,Graduate,Yes,>20,>4,,<10,Yes
+201067,city_104,Male,Has relevent experience,Grade 3,Graduate,No,9,1,,1-10,Yes
+201095,city_103,Female,No relevent experience,Grade 3,Graduate,Yes,3,1,,<10,No
+201134,city_114,,Has relevent experience,Grade 3,,Yes,5,,,,Yes
+201205,city_162,Male,Has relevent experience,Grade 2,Graduate,Yes,4,never,,<10,Yes
+201223,city_100,,Has relevent experience,Grade 2,High School,Yes,>20,2,,1-10,Yes
+201296,city_100,Male,Has relevent experience,Grade 3,High School,Yes,4,1,,100-500,Yes
+201394,city_16,,No relevent experience,Grade 1,Graduate,Yes,<1,never,,,Yes
+201434,city_84,Male,Has relevent experience,Grade 2,Graduate,Yes,5,1,,100-500,Yes
+201487,city_75,Male,Has relevent experience,Grade 3,High School,Yes,9,1,,,Yes
+201502,city_16,Male,Has relevent experience,Grade 3,Graduate,Yes,7,1,,<10,Yes
+201569,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,>20,1,,500-999,Yes
+201575,city_16,,No relevent experience,Grade 1,Primary School,Yes,5,never,,,Yes
+201638,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,4,1,,10000+,Yes
+201686,city_16,Male,No relevent experience,Grade 3,Masters,Yes,4,1,,50-99,Yes
+201785,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,10,4,,10000+,Yes
+201882,city_71,Male,Has relevent experience,Grade 2,Graduate,Yes,11,1,,10000+,No
+201909,city_30,Male,Has relevent experience,Grade 2,Graduate,Yes,5,1,,100-500,Yes
+201927,city_114,,Has relevent experience,Grade 1,High School,Yes,>20,>4,,,Yes
+202002,city_91,,Has relevent experience,Grade 2,Graduate,Yes,3,>4,,,Yes
+202029,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,>20,4,,10000+,No
+202046,city_100,Male,Has relevent experience,Grade 3,Graduate,No,11,1,,,Yes
+202076,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,8,1,,50-99,Yes
+202119,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,1,,50-99,Yes
+202179,city_16,Male,No relevent experience,Grade 3,Graduate,Yes,>20,>4,,,Yes
+202278,city_160,Male,Has relevent experience,Grade 3,Masters,Yes,7,1,,100-500,Yes
+202353,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,,Yes
+202437,city_114,Male,Has relevent experience,Grade 3,Masters,No,>20,1,,100-500,No
+202483,city_11,,Has relevent experience,Grade 2,Graduate,Yes,4,1,,50-99,Yes
+202580,city_100,Male,Has relevent experience,Grade 2,Masters,Yes,14,4,,100-500,Yes
+202650,city_160,,No relevent experience,Grade 2,Primary School,Yes,4,never,,,Yes
+202715,city_150,Male,No relevent experience,Grade 2,Graduate,Yes,2,never,,,No
+202809,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,4,2,,50-99,Yes
+202854,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,>4,,500-999,Yes
+202939,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,2,1,,,Yes
+202948,city_114,,Has relevent experience,Grade 2,Masters,Yes,14,>4,,5000-9999,Yes
+203042,city_103,,No relevent experience,Grade 2,High School,Yes,2,never,,,Yes
+203053,city_159,Male,Has relevent experience,Grade 3,Masters,Yes,12,1,,50-99,No
+203109,city_77,Male,Has relevent experience,Grade 3,Graduate,Yes,7,2,,50-99,Yes
+203193,city_76,Male,Has relevent experience,Grade 2,Graduate,Yes,13,4,,1000-4999,Yes
+203259,city_21,,Has relevent experience,Grade 3,Graduate,Yes,2,1,,100-500,Yes
+203354,city_103,,Has relevent experience,Grade 3,Graduate,Yes,12,never,,100-500,Yes
+203395,city_90,Male,Has relevent experience,Grade 3,Graduate,No,5,2,,500-999,Yes
+203398,city_103,,Has relevent experience,Grade 3,Masters,No,>20,>4,,100-500,Yes
+203405,city_160,,Has relevent experience,Grade 1,Masters,Yes,6,1,,100-500,Yes
+203420,city_150,,No relevent experience,Grade 3,Graduate,Yes,4,1,,,No
+203505,city_103,Male,No relevent experience,Grade 3,Masters,Yes,2,1,,1000-4999,No
+203602,city_16,Male,No relevent experience,Grade 2,Graduate,Yes,14,>4,,1000-4999,Yes
+203666,city_64,Female,Has relevent experience,Grade 3,Graduate,Yes,14,1,,,No
+203741,city_103,,Has relevent experience,Grade 3,Graduate,Yes,5,1,,10000+,Yes
+203801,city_45,Male,No relevent experience,Grade 2,High School,Yes,6,never,,,No
+203879,city_149,Male,Has relevent experience,Grade 2,Masters,Yes,7,1,,50-99,Yes
+203904,city_160,,Has relevent experience,Grade 3,Graduate,Yes,12,1,,<10,No
+203913,city_16,Male,Has relevent experience,Grade 2,Masters,Yes,10,2,,10000+,Yes
+203918,city_21,,No relevent experience,Grade 3,Graduate,Yes,2,1,,1-10,Yes
+203948,city_173,,Has relevent experience,Grade 3,Masters,Yes,20,,,1000-4999,Yes
+204025,city_57,Male,Has relevent experience,Grade 1,Graduate,Yes,16,1,,,Yes
+204052,city_11,,No relevent experience,Grade 2,Graduate,Yes,1,never,,,Yes
+204106,city_114,Male,Has relevent experience,Grade 3,Masters,Yes,19,2,,50-99,No
+204178,city_105,,Has relevent experience,Grade 2,Graduate,Yes,2,2,,50-99,Yes
+204227,city_83,Male,Has relevent experience,Grade 2,Graduate,No,>20,>4,,50-99,Yes
+204243,city_21,Male,No relevent experience,Grade 3,Graduate,Yes,1,1,,1-10,Yes
+204316,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,10,3,,10000+,Yes
+204321,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,10,1,,,Yes
+204400,city_160,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,1,,50-99,Yes
+204458,city_100,,No relevent experience,Grade 3,Masters,Yes,4,3,,,Yes
+204541,city_160,Male,No relevent experience,Grade 2,Graduate,Yes,5,4,,500-999,Yes
+204605,city_114,Male,No relevent experience,Grade 2,Graduate,Yes,<1,4,,,No
+204681,city_136,Male,Has relevent experience,Grade 3,Graduate,Yes,18,3,,1000-4999,Yes
+204710,city_75,Male,No relevent experience,Grade 3,Graduate,Yes,1,never,,,Yes
+204722,city_104,Male,No relevent experience,Grade 3,Primary School,Yes,15,2,,10000+,Yes
+204723,city_101,Male,Has relevent experience,Grade 3,Graduate,Yes,5,2,,100-500,Yes
+204801,city_65,Male,Has relevent experience,Grade 2,Masters,Yes,15,>4,,10000+,Yes
+204841,city_114,Male,No relevent experience,Grade 2,High School,Yes,9,1,,<10,No
+204881,city_16,Male,Has relevent experience,Grade 1,Graduate,Yes,9,1,,<10,Yes
+204955,city_136,Male,Has relevent experience,Grade 2,Graduate,No,>20,2,,<10,Yes
+205029,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,4,3,,100-500,Yes
+205034,city_114,Male,Has relevent experience,Grade 2,Graduate,Yes,4,2,,100-500,No
+205070,city_99,,Has relevent experience,Grade 3,,Yes,>20,2,,50-99,No
+205131,city_16,Other,Has relevent experience,Grade 3,High School,Yes,8,1,,50-99,Yes
+205218,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,11,1,,100-500,No
+205221,city_36,Male,Has relevent experience,Grade 2,Graduate,Yes,13,1,,1-10,Yes
+205310,city_118,Male,Has relevent experience,Grade 3,Graduate,Yes,2,1,,1-10,Yes
+205369,city_13,Male,No relevent experience,Grade 3,Primary School,Yes,5,never,,,Yes
+205451,city_103,Male,Has relevent experience,Grade 2,Masters,Yes,8,4,,10000+,No
+205453,city_27,Male,Has relevent experience,Grade 2,Graduate,No,>20,2,,100-500,Yes
+205483,city_71,Male,Has relevent experience,Grade 3,High School,Yes,6,3,,1-10,No
+205576,city_160,Other,Has relevent experience,Grade 3,Graduate,Yes,5,2,,<10,Yes
+205640,city_160,,Has relevent experience,Grade 1,Graduate,Yes,14,2,,100-500,No
+205685,city_21,Female,No relevent experience,Grade 3,Graduate,No,<1,1,,,No
+205708,city_78,,Has relevent experience,Grade 3,Graduate,Yes,<1,2,,,Yes
+205727,city_103,Male,Has relevent experience,Grade 3,Graduate,Yes,6,>4,,1-10,Yes
+205813,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,1-10,No
+205881,city_160,Male,Has relevent experience,Grade 3,Graduate,Yes,15,>4,,<10,Yes
+205924,city_138,Male,Has relevent experience,Grade 2,Masters,Yes,14,1,,10000+,Yes
+205990,city_101,Male,Has relevent experience,Grade 3,Graduate,Yes,5,1,,,Yes
+206026,city_114,Male,No relevent experience,Grade 3,Primary School,Yes,3,never,,,No
+206103,city_103,Female,Has relevent experience,Grade 2,Graduate,No,11,2,,,Yes
+206144,city_11,Male,Has relevent experience,Grade 3,Graduate,Yes,19,>4,,1-10,Yes
+206176,city_21,,Has relevent experience,Grade 3,Graduate,Yes,6,2,,1-10,Yes
+206226,city_145,,No relevent experience,Grade 2,Graduate,Yes,3,1,,,Yes
+206266,city_162,Other,No relevent experience,Grade 1,Primary School,Yes,6,never,,,Yes
+206271,city_16,Male,No relevent experience,Grade 2,Graduate,Yes,6,1,,<10,Yes
+206327,city_10,Male,No relevent experience,Grade 3,Graduate,Yes,4,2,,,Yes
+206341,city_101,Male,Has relevent experience,Grade 3,Graduate,Yes,2,2,,50-99,Yes
+206402,city_103,Female,Has relevent experience,Grade 3,Graduate,Yes,3,1,,,No
+206403,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,>20,2,,1-10,No
+206463,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,3,never,,,Yes
+206534,city_103,Male,No relevent experience,Grade 3,High School,Yes,6,never,,,Yes
+206558,city_61,,Has relevent experience,Grade 3,Graduate,Yes,20,2,,100-500,Yes
+206594,city_19,Female,Has relevent experience,Grade 3,Graduate,Yes,12,1,,100-500,No
+206640,city_97,Male,No relevent experience,Grade 2,High School,Yes,2,1,,500-999,Yes
+206691,city_21,,No relevent experience,Grade 2,Graduate,Yes,1,1,,10000+,Yes
+206726,city_21,,Has relevent experience,Grade 2,Graduate,No,5,1,,<10,Yes
+206781,city_160,Male,No relevent experience,Grade 3,Masters,Yes,8,1,,,Yes
+206795,city_175,Male,Has relevent experience,Grade 2,Graduate,Yes,5,4,,5000-9999,Yes
+206824,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,14,1,,50-99,Yes
+206836,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,7,1,,10000+,Yes
+206882,city_21,Male,No relevent experience,Grade 1,Masters,Yes,<1,3,,100-500,Yes
+206895,city_71,Male,Has relevent experience,Grade 2,Graduate,Yes,18,3,,100-500,Yes
+206926,city_16,,Has relevent experience,Grade 3,Graduate,Yes,12,1,,1000-4999,Yes
+206950,city_23,,Has relevent experience,Grade 3,,Yes,>20,never,,,Yes
+207040,city_152,Male,No relevent experience,Grade 2,Graduate,Yes,13,2,,,No
+207109,city_21,,Has relevent experience,Grade 3,Masters,Yes,7,1,,500-999,Yes
+207158,city_116,Male,Has relevent experience,Grade 3,Masters,Yes,9,2,,1000-4999,No
+207193,city_160,,Has relevent experience,Grade 3,,Yes,18,>4,,100-500,Yes
+207201,city_19,Male,Has relevent experience,Grade 2,Graduate,Yes,9,1,,1-10,No
+207283,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,3,,,No
+207324,city_75,Male,Has relevent experience,Grade 2,Graduate,Yes,15,1,,100-500,Yes
+207408,city_103,Male,Has relevent experience,Grade 1,Graduate,Yes,>20,>4,,50-99,Yes
+207411,city_103,,No relevent experience,Grade 3,Graduate,Yes,3,1,,100-500,Yes
+207428,city_116,Male,Has relevent experience,Grade 2,Masters,Yes,7,4,,50-99,Yes
+207468,city_103,Male,No relevent experience,Grade 2,,Yes,3,,,,No
+207512,city_21,Male,Has relevent experience,Grade 3,Graduate,Yes,9,1,,1-10,Yes
+207580,city_50,Male,Has relevent experience,Grade 2,Graduate,Yes,6,1,,,No
+207679,city_136,Male,Has relevent experience,Grade 1,Masters,Yes,>20,4,,100-500,Yes
+207739,city_160,Female,No relevent experience,Grade 3,High School,Yes,1,1,,10000+,Yes
+207744,city_27,Male,Has relevent experience,Grade 2,Graduate,Yes,<1,>4,,,Yes
+207760,city_150,Male,Has relevent experience,Grade 3,Masters,Yes,8,1,,50-99,Yes
+207773,city_103,Male,Has relevent experience,Grade 1,Masters,Yes,9,2,,50-99,Yes
+207825,city_21,,Has relevent experience,Grade 2,Masters,Yes,<1,2,,1-10,Yes
+207829,city_114,,Has relevent experience,Grade 3,High School,Yes,7,3,,100-500,No
+207847,city_75,Male,Has relevent experience,Grade 3,Graduate,Yes,19,4,,1-10,Yes
+207888,city_114,Male,Has relevent experience,Grade 3,Graduate,Yes,6,1,,100-500,No
+207942,city_16,,Has relevent experience,Grade 2,Graduate,Yes,11,>4,,1000-4999,Yes
+207963,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,5,1,,10000+,Yes
+208025,city_134,Male,Has relevent experience,Grade 3,Masters,Yes,6,1,,,No
+208045,city_45,Male,No relevent experience,Grade 1,Masters,Yes,9,1,,,Yes
+208139,city_16,,No relevent experience,Grade 2,Masters,Yes,4,1,,5000-9999,No
+208218,city_103,Male,Has relevent experience,Grade 3,High School,Yes,12,1,,1-10,Yes
+208266,city_21,,Has relevent experience,Grade 2,Graduate,Yes,6,never,,500-999,No
+208307,city_21,,Has relevent experience,Grade 3,,Yes,1,never,,,Yes
+208358,city_28,Male,Has relevent experience,Grade 3,Masters,No,>20,>4,,1-10,Yes
+208412,city_143,,Has relevent experience,Grade 3,Graduate,Yes,8,1,,<10,Yes
+208452,city_24,Male,Has relevent experience,Grade 3,High School,Yes,12,1,,50-99,Yes
+208494,city_21,Male,No relevent experience,Grade 3,Graduate,No,<1,never,,500-999,Yes
+208541,city_71,Male,Has relevent experience,Grade 3,Masters,Yes,17,4,,100-500,No
+208639,city_24,Male,No relevent experience,Grade 1,Graduate,Yes,8,4,,50-99,Yes
+208644,city_160,Male,Has relevent experience,Grade 2,Graduate,Yes,14,4,,1-10,No
+208744,city_103,Male,Has relevent experience,Grade 2,Graduate,Yes,14,4,,<10,Yes
+208758,city_103,,No relevent experience,Grade 3,High School,Yes,3,1,,,Yes
+208761,city_103,,No relevent experience,Grade 2,Graduate,Yes,9,2,,,No
+208766,city_103,Male,No relevent experience,Grade 2,Graduate,Yes,1,never,,,No
+208798,city_162,Male,Has relevent experience,Grade 2,Graduate,Yes,4,1,,,Yes
+208890,city_103,Male,Has relevent experience,Grade 3,Masters,Yes,16,4,,10000+,Yes
+208907,city_16,,Has relevent experience,Grade 1,Graduate,Yes,>20,never,,<10,No
+208915,city_75,,No relevent experience,Grade 2,High School,No,2,never,,,Yes
+208998,city_36,Male,Has relevent experience,Grade 1,Masters,Yes,20,1,,50-99,Yes
+209042,city_24,,Has relevent experience,Grade 2,Masters,Yes,15,>4,,50-99,No
+209074,city_16,Other,No relevent experience,Grade 3,Graduate,Yes,6,1,,,Yes
+209168,city_134,Male,Has relevent experience,Grade 3,Graduate,Yes,4,1,,50-99,Yes
+209185,city_71,Male,Has relevent experience,Grade 3,Graduate,Yes,6,1,,100-500,Yes
+209236,city_73,,Has relevent experience,Grade 3,High School,Yes,>20,2,,50-99,No
+209318,city_21,Male,Has relevent experience,Grade 1,Graduate,Yes,10,1,,100-500,Yes
+209374,city_75,Male,Has relevent experience,Grade 3,High School,Yes,>20,2,,100-500,Yes
+209384,city_44,Male,No relevent experience,Grade 3,Graduate,No,7,never,,<10,Yes
+209468,city_138,Male,Has relevent experience,Grade 3,High School,Yes,14,1,,,Yes
+209517,city_70,,No relevent experience,Grade 3,High School,Yes,8,never,,,Yes
+209601,city_114,Male,No relevent experience,Grade 3,High School,Yes,5,never,,,No
+209643,city_173,Male,No relevent experience,Grade 3,Masters,Yes,16,>4,,<10,Yes
+209695,city_90,,No relevent experience,Grade 2,Graduate,Yes,20,never,,,No
+209740,city_21,Female,No relevent experience,Grade 3,High School,No,3,never,,,Yes
+209831,city_103,Male,No relevent experience,Grade 3,Graduate,Yes,16,4,,,Yes
+209869,city_136,Male,Has relevent experience,Grade 3,Masters,Yes,18,2,,,Yes
+209899,city_100,Male,No relevent experience,Grade 3,Primary School,Yes,3,never,,,Yes
+209988,city_102,Male,Has relevent experience,Grade 1,High School,Yes,7,1,,100-500,No
+210075,city_102,Male,Has relevent experience,Grade 3,Masters,No,15,2,,10000+,No
